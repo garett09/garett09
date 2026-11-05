@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Figma reports Q3 revenue up 43% YoY to $391.4M, above est., gross margin of 80%, below 81% est., and lifts its 2026 revenue outlook; FIG drops 6%+ after hours &lpar;Deborah Mary Sophia/Reuters&rpar;](https://www.techmeme.com/261104/p54#a261104p54)
- - [Qualcomm is betting big on data centers as smartphone sales sink](https://www.theverge.com/ai-artificial-intelligence/1026867/qualcomm-earnings-data-centers)
- - [Samsung is getting the One UI 9.5 beta ready for the Galaxy S26 series](https://www.androidauthority.com/galaxy-s26-one-ui-9-5-beta-in-testing-3731840/)<!-- TECH:END -->
+ - [Sources: China has told SoftBank it will not allow the $5.4B acquisition of ABB&#39;s robotics division to go ahead; China is the division&#39;s biggest market &lpar;David Keohane/Financial Times&rpar;](https://www.techmeme.com/261104/p65#a261104p65)
+ - [Sources: Palo Alto Networks is in talks to acquire Israeli startup Clutch Security, which develops software for tracking passwords used by AI agents, for ~$500M &lpar;Valida Pau/The Information&rpar;](https://www.techmeme.com/261104/p64#a261104p64)
+ - [How to install macOS Tahoe on unsupported Macs](https://appleinsider.com/articles/26/11/05/how-to-install-macos-tahoe-on-unsupported-macs?utm_source=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
