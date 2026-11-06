@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Captured in Eagle River, Alaska near Joint Base Elmendorf - Richardson](http://9gag.com/gag/a4npMz1)
- - 🚯 [Who&#39;s gonna be the next president?](http://9gag.com/gag/axWdE51)
- - 🚯 [A wise man once said- \u201cMen if you enjoy s#x, don\u2019t get married.\u201d](http://9gag.com/gag/aBZ9qdP)<!-- MEMES:END -->
+ - 🚖 [Pepsi?](http://9gag.com/gag/abeXXe9)
+ - 🚯 [A wise man once said- \u201cMen if you enjoy s#x, don\u2019t get married.\u201d](http://9gag.com/gag/aBZ9qdP)
+ - 🚯 [Seems fair](http://9gag.com/gag/az5g7pZ)<!-- MEMES:END -->
 
 --- 
 
