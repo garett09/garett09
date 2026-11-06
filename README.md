@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [6 Best VPN Services &lpar;2026&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-vpn/)
- - [Motorola introduces Polar-powered Moto Watch 2 Fit and Bose-boosted Moto Buds 2 Ultra](https://www.androidauthority.com/moto-watch-2-fit-and-moto-buds-2-ultra-3732293/)
- - [The 7 Best Early Black Friday TV Deals &lpar;2026&rpar;](https://www.wired.com/story/early-black-friday-tv-deals-11-5-26/)<!-- TECH:END -->
+ - [Google rolls out Gemini Omni 1.2 Flash, which creates clips up to 15 seconds, vs. 10 seconds with Omni 1.1, has better reference adherence, and costs 30% less &lpar;Matthias Bastian/The Decoder&rpar;](https://www.techmeme.com/261105/p70#a261105p70)
+ - [Perplexity rolls out Teammates, an always-on AI agent system that integrates with Computer to handle multiple roles and execute large-scale tasks simultaneously &lpar;Emma Roth/The Verge&rpar;](https://www.techmeme.com/261105/p69#a261105p69)
+ - [Sources: UK neobank Monzo is exploring a new fundraising round valuing it at ~£7.5B after failing to be acquired by Nu Holdings and struggling to sell a stake &lpar;Financial Times&rpar;](https://www.techmeme.com/261105/p68#a261105p68)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
