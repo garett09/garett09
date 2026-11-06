@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google rolls out Gemini Omni 1.2 Flash, which creates clips up to 15 seconds, vs. 10 seconds with Omni 1.1, has better reference adherence, and costs 30% less &lpar;Matthias Bastian/The Decoder&rpar;](https://www.techmeme.com/261105/p70#a261105p70)
- - [Perplexity rolls out Teammates, an always-on AI agent system that integrates with Computer to handle multiple roles and execute large-scale tasks simultaneously &lpar;Emma Roth/The Verge&rpar;](https://www.techmeme.com/261105/p69#a261105p69)
- - [Sources: UK neobank Monzo is exploring a new fundraising round valuing it at ~£7.5B after failing to be acquired by Nu Holdings and struggling to sell a stake &lpar;Financial Times&rpar;](https://www.techmeme.com/261105/p68#a261105p68)<!-- TECH:END -->
+ - [Experts say the new Democratic congressional majority will likely seek to rebuild CISA, prioritize AI security, revive local cyber grants, probe DOGE, and more &lpar;Eric Geller/Cybersecurity Dive&rpar;](https://www.techmeme.com/261106/p11#a261106p11)
+ - [Apple&#39;s bond sale is now confirmed at $7.5 billion](https://appleinsider.com/articles/26/11/06/apples-bond-sale-is-now-confirmed-at-75-billion?utm_source=rss)
+ - [How Remedy designed Control Resonant’s wildest mission: ‘Anything kind of goes’](https://www.theverge.com/games/1028159/control-resonant-recursions-and-iterations-mission-design-time-travel)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
