@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [She votes. Proudly.](http://9gag.com/gag/aO2KKR6)
- - 🚯 [Seems fair](http://9gag.com/gag/az5g7pZ)
- - 🚯 [Sorry But We Don&#39;t Accept Cash .](http://9gag.com/gag/aZnbb03)<!-- MEMES:END -->
+ - 🚖 [Why would I deceive you ?](http://9gag.com/gag/aBZR9B2)
+ - 🚯 [When someone asks why I avoid eastern European women](http://9gag.com/gag/aAQRY6L)
+ - 🚯 [Seems fair](http://9gag.com/gag/az5g7pZ)<!-- MEMES:END -->
 
 --- 
 
