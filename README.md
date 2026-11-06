@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Experts say the new Democratic congressional majority will likely seek to rebuild CISA, prioritize AI security, revive local cyber grants, probe DOGE, and more &lpar;Eric Geller/Cybersecurity Dive&rpar;](https://www.techmeme.com/261106/p11#a261106p11)
- - [Apple&#39;s bond sale is now confirmed at $7.5 billion](https://appleinsider.com/articles/26/11/06/apples-bond-sale-is-now-confirmed-at-75-billion?utm_source=rss)
- - [How Remedy designed Control Resonant’s wildest mission: ‘Anything kind of goes’](https://www.theverge.com/games/1028159/control-resonant-recursions-and-iterations-mission-design-time-travel)<!-- TECH:END -->
+ - [The Cybertruck’s Death Is Actually Great News for EVs](https://www.wired.com/story/cybertrucks-death-great-news-for-evs/)
+ - [Google Messages’ new pinned chats are dividing users, and we want your take](https://www.androidauthority.com/google-messages-pinned-chats-redesign-user-reactions-3732689/)
+ - [Google Health app 5.12 update revamps glucose, blood pressure, and resilience tracking](https://www.androidauthority.com/google-health-5-12-update-3732684/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
