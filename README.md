@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: US officials believe Jensen Huang had a romantic relationship with Alice Huang, who they allege was recruited to spy for China&#39;s top spy agency, MSS &lpar;Demetri Sevastopulo/Financial Times&rpar;](https://www.techmeme.com/261106/p29#a261106p29)
- - [Meta introduces specialized versions of its existing models, trained using Muse Wonder, bringing Active Memory and Active Focus to all Muse and Meta AI users &lpar;Frederic Lardinois/The New Stack&rpar;](https://www.techmeme.com/261106/p28#a261106p28)
- - [CesiumAstro, which plans a 737-satellite LEO communications network at two altitudes, raised $730M at a $4.5B+ valuation, bringing its total funding to $1.4B &lpar;Loren Grush/Bloomberg&rpar;](https://www.techmeme.com/261106/p27#a261106p27)<!-- TECH:END -->
+ - [These 5 productivity apps you’ve never heard of deserve a spot on your phone](https://www.androidauthority.com/underrated-productivity-apps-android-3731000/)
+ - [Best Wi-Fi Routers &lpar;2026&rpar;: My Honest Picks After Testing 50+](https://www.wired.com/gallery/best-wifi-routers/)
+ - [The 10 Best Early Black Friday Headphone Deals &lpar;2026&rpar;](https://www.wired.com/story/best-early-black-friday-headphone-deals-11-6-26/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
