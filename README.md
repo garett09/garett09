@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Cybertruck’s Death Is Actually Great News for EVs](https://www.wired.com/story/cybertrucks-death-great-news-for-evs/)
- - [Google Messages’ new pinned chats are dividing users, and we want your take](https://www.androidauthority.com/google-messages-pinned-chats-redesign-user-reactions-3732689/)
- - [Google Health app 5.12 update revamps glucose, blood pressure, and resilience tracking](https://www.androidauthority.com/google-health-5-12-update-3732684/)<!-- TECH:END -->
+ - [Sources: US officials believe Jensen Huang had a romantic relationship with Alice Huang, who they allege was recruited to spy for China&#39;s top spy agency, MSS &lpar;Demetri Sevastopulo/Financial Times&rpar;](https://www.techmeme.com/261106/p29#a261106p29)
+ - [Meta introduces specialized versions of its existing models, trained using Muse Wonder, bringing Active Memory and Active Focus to all Muse and Meta AI users &lpar;Frederic Lardinois/The New Stack&rpar;](https://www.techmeme.com/261106/p28#a261106p28)
+ - [CesiumAstro, which plans a 737-satellite LEO communications network at two altitudes, raised $730M at a $4.5B+ valuation, bringing its total funding to $1.4B &lpar;Loren Grush/Bloomberg&rpar;](https://www.techmeme.com/261106/p27#a261106p27)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
