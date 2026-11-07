@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [These 5 productivity apps you’ve never heard of deserve a spot on your phone](https://www.androidauthority.com/underrated-productivity-apps-android-3731000/)
- - [Best Wi-Fi Routers &lpar;2026&rpar;: My Honest Picks After Testing 50+](https://www.wired.com/gallery/best-wifi-routers/)
- - [The 10 Best Early Black Friday Headphone Deals &lpar;2026&rpar;](https://www.wired.com/story/best-early-black-friday-headphone-deals-11-6-26/)<!-- TECH:END -->
+ - [Public records appear to show SpaceX building a &quot;Starbase supercomputer&quot; in TX, but Gina Hinojosa&#39;s election as governor may delay some of the data center plans &lpar;Ann Davis Vaughan/The Information&rpar;](https://www.techmeme.com/261107/p14#a261107p14)
+ - [Binance says CFO Kaiser Ng is leaving to &quot;pursue a new venture&quot; days after a $6.3B hack, citing a six-month transition plan, and names Justin Yek as CFO &lpar;Bloomberg&rpar;](https://www.techmeme.com/261107/p13#a261107p13)
+ - [Exponential Time Hypothesis co-proposer Russell Impagliazzo calls OpenAI&#39;s disproof &quot;shocking news&quot;; it could one day speed up chip design and break encryption &lpar;Cade Metz/New York Times&rpar;](https://www.techmeme.com/261107/p12#a261107p12)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
