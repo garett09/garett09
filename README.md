@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Welcome To Spain .](http://9gag.com/gag/a0o89KQ)
- - 🚯 [Why would I deceive you ?](http://9gag.com/gag/aBZR9B2)
- - 🚯 [Chad , Am I Cooked ?](http://9gag.com/gag/aWpQZ5Z)<!-- MEMES:END -->
+ - 🚖 [`Poland is safe` they said...](http://9gag.com/gag/avWpZjO)
+ - 🚯 [In Poland Terrorist Attack and Next gruop of attacker Hide](http://9gag.com/gag/aEMvGmN)
+ - 🚯 [Where is she? I am already unemployed.](http://9gag.com/gag/aNLroVA)<!-- MEMES:END -->
 
 --- 
 
