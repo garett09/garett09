@@ -148,8 +148,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 🚖 [A policeman, unrelated to the incident, managed to neutralize the attacker. When he made sure the danger had passed, he stepped down to the ground](http://9gag.com/gag/a4nKdnA)
- - 🚯 [When someone asks why I avoid eastern European women](http://9gag.com/gag/aAQRY6L)
- - 🚯 [Chad , Am I Cooked ?](http://9gag.com/gag/aWpQZ5Z)<!-- MEMES:END -->
+ - 🚯 [Tom should stop it and get some help](http://9gag.com/gag/aD7A3QG)
+ - 🚯 [A policeman, unrelated to the incident, managed to neutralize the attacker. When he made sure the danger had passed, he stepped down to the ground](http://9gag.com/gag/a4nKdnA)<!-- MEMES:END -->
 
 --- 
 
