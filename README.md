@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [I tested ColorOS 17 on the OnePlus 15. Here are 3 things you need to know](https://www.androidauthority.com/oneplus-15-coloros-hands-on-3730399/)
- - [8 Best Computer Speakers &lpar;2026&rpar; After Testing 30 Pairs](https://www.wired.com/gallery/best-computer-speakers/)
- - [I Used NYT Cooking’s New AI-Powered Recipe Modifier, and It’s Actually Pretty Good](https://www.wired.com/story/nyt-cooking-new-ai-powered-recipe-modifier-is-pretty-good/)<!-- TECH:END -->
+ - [Sunday Reboot: Curses and a spotty reminder of times past](https://appleinsider.com/articles/26/11/08/sunday-reboot-curses-and-a-spotty-reminder-of-times-past?utm_source=rss)
+ - [Email to staff: Jensen Huang admits an affair, takes &quot;full responsibility&quot;, and says he fell short of his duties to Nvidia&#39;s board, shareholders, and employees &lpar;Madison Mills/Axios&rpar;](https://www.techmeme.com/261108/p14#a261108p14)
+ - [Nvidia&#39;s board launches a probe into whether Jensen Huang was targeted by a foreign spy plot, saying it has no reason to believe Nvidia secrets were compromised &lpar;Ian King/Bloomberg&rpar;](https://www.techmeme.com/261108/p13#a261108p13)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
