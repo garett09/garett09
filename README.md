@@ -147,8 +147,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Chad , Am I Cooked ?](http://9gag.com/gag/aWpQZ5Z)
- - 🚯 [Chad , Am I Cooked ?](http://9gag.com/gag/aWpQZ5Z)
+ - 🚖 [A policeman, unrelated to the incident, managed to neutralize the attacker. When he made sure the danger had passed, he stepped down to the ground](http://9gag.com/gag/a4nKdnA)
+ - 🚯 [When someone asks why I avoid eastern European women](http://9gag.com/gag/aAQRY6L)
  - 🚯 [Chad , Am I Cooked ?](http://9gag.com/gag/aWpQZ5Z)<!-- MEMES:END -->
 
 --- 
