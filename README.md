@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How a small, wealthy AI-safety network that organized in Signal chats grew into a coalition that beat the $100M super PAC Leading the Future in the midterms &lpar;Politico&rpar;](https://www.techmeme.com/261107/p18#a261107p18)
- - [Anthropic-backed AI safety super PAC Public First spent $63M+ in the 2026 midterms, and 10 of the 17 congressional candidates it backed won their elections &lpar;Emily Birnbaum/Bloomberg&rpar;](https://www.techmeme.com/261107/p17#a261107p17)
- - [US Treasury moves to cut crypto exchange MEXC off from the US financial system, alleging $16B+ in illicit flows, including Russian and Iranian sanctions evasion &lpar;Francisco Rodrigues/CoinDesk&rpar;](https://www.techmeme.com/261107/p16#a261107p16)<!-- TECH:END -->
+ - [I tested ColorOS 17 on the OnePlus 15. Here are 3 things you need to know](https://www.androidauthority.com/oneplus-15-coloros-hands-on-3730399/)
+ - [8 Best Computer Speakers &lpar;2026&rpar; After Testing 30 Pairs](https://www.wired.com/gallery/best-computer-speakers/)
+ - [I Used NYT Cooking’s New AI-Powered Recipe Modifier, and It’s Actually Pretty Good](https://www.wired.com/story/nyt-cooking-new-ai-powered-recipe-modifier-is-pretty-good/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
