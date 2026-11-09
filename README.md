@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tencent&#39;s chief AI scientist Yao Shunyu says AI&#39;s bio abilities will soon make it &quot;possible to do harm&quot; and Anthropic has a &quot;strong argument&quot; for closed models &lpar;Vincent Chow/South China Morning Post&rpar;](https://www.techmeme.com/261108/p21#a261108p21)
- - [Job listings show Amazon is building a &quot;new-to-world&quot; home robot to operate &quot;alongside family members&quot;, after its $1,450 Astro reached only a few thousand homes &lpar;Annie Palmer/CNBC&rpar;](https://www.techmeme.com/261108/p20#a261108p20)
- - [Trump says Jensen Huang should stay on as Nvidia CEO after affair admission, saying he is a &quot;fine person&quot; and &quot;I haven&#39;t heard he&#39;s done anything wrong&quot; &lpar;Kate Sullivan/Bloomberg&rpar;](https://www.techmeme.com/261108/p19#a261108p19)<!-- TECH:END -->
+ - [Sources: Jensen Huang hired crisis communications firm Heller as early as October 2025; an NYT report in October 2025 on his Megaspeed ties caused tensions &lpar;Lauren Goode/Wired&rpar;](https://www.techmeme.com/261109/p26#a261109p26)
+ - [How a Mac mini powers a staggeringly capable robot without human training](https://appleinsider.com/articles/26/11/09/how-a-mac-mini-powers-a-staggeringly-capable-robot-without-human-training?utm_source=rss)
+ - [Jensen Huang Hired a PR Firm Known for Handling Sex Scandals Last Year](https://www.wired.com/story/nvidia-ceo-jensen-huang-hired-a-pr-firm-known-for-handling-sex-scandals-last-year/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
