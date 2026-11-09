@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sunday Reboot: Curses and a spotty reminder of times past](https://appleinsider.com/articles/26/11/08/sunday-reboot-curses-and-a-spotty-reminder-of-times-past?utm_source=rss)
- - [Email to staff: Jensen Huang admits an affair, takes &quot;full responsibility&quot;, and says he fell short of his duties to Nvidia&#39;s board, shareholders, and employees &lpar;Madison Mills/Axios&rpar;](https://www.techmeme.com/261108/p14#a261108p14)
- - [Nvidia&#39;s board launches a probe into whether Jensen Huang was targeted by a foreign spy plot, saying it has no reason to believe Nvidia secrets were compromised &lpar;Ian King/Bloomberg&rpar;](https://www.techmeme.com/261108/p13#a261108p13)<!-- TECH:END -->
+ - [Tencent&#39;s chief AI scientist Yao Shunyu says AI&#39;s bio abilities will soon make it &quot;possible to do harm&quot; and Anthropic has a &quot;strong argument&quot; for closed models &lpar;Vincent Chow/South China Morning Post&rpar;](https://www.techmeme.com/261108/p21#a261108p21)
+ - [Job listings show Amazon is building a &quot;new-to-world&quot; home robot to operate &quot;alongside family members&quot;, after its $1,450 Astro reached only a few thousand homes &lpar;Annie Palmer/CNBC&rpar;](https://www.techmeme.com/261108/p20#a261108p20)
+ - [Trump says Jensen Huang should stay on as Nvidia CEO after affair admission, saying he is a &quot;fine person&quot; and &quot;I haven&#39;t heard he&#39;s done anything wrong&quot; &lpar;Kate Sullivan/Bloomberg&rpar;](https://www.techmeme.com/261108/p19#a261108p19)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
