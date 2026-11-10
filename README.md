@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Tom should stop it and get some help](http://9gag.com/gag/aD7A3QG)
+ - 🚖 [Job interviews with AI Karens is the new trend](http://9gag.com/gag/ap1EvV5)
  - 🚯 [Actually this was the chinese spy](http://9gag.com/gag/aoWEjBw)
- - 🚯 [A policeman, unrelated to the incident, managed to neutralize the attacker. When he made sure the danger had passed, he stepped down to the ground](http://9gag.com/gag/a4nKdnA)<!-- MEMES:END -->
+ - 🚯 [Vibe coding in 2010](https://www.reddit.com/r/funny/comments/1xs9ce3/vibe_coding_in_2010/)<!-- MEMES:END -->
 
 --- 
 
