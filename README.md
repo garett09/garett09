@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Aura’s next color E Ink photo frame is smaller, cheaper, sharper, and more colorful](https://www.theverge.com/tech/1027926/aura-e-ink-digital-photo-frame-10-inch-price-availability)
- - [Peak Design’s Roller Lite Carry-On is bigger on the inside — and cheaper, too](https://www.theverge.com/tech/1030186/peak-design-roller-lite-carry-on-review)
- - [Adobe is going all in on agentic AI](https://www.theverge.com/tech/1030593/adobe-max-ai-agents-mcp-firefly-assistant-updates)<!-- TECH:END -->
+ - [Google details everything new in Android 17 QPR2](https://www.androidauthority.com/android-17-qpr2-stable-3733645/)
+ - [Sources and records: 11+ NSA and US Cyber Command personnel died by suicide over the 12 months to September, prompting White House and Congressional questions &lpar;Jake Bleiberg/Bloomberg&rpar;](https://www.techmeme.com/261110/p54#a261110p54)
+ - [Google Expands Gemini 4 Carbon Availability](https://www.cnet.com/tech/services-and-software/google-expands-gemini-4-carbon-availability/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
