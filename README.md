@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [David Ellison says AI could be the ‘biggest creative unlock in modern history’](https://www.theverge.com/entertainment/1030510/paramount-skydance-david-ellison-ai)
- - [Jensen Huang’s Troubles Leave the AI Industry Reeling](https://www.wired.com/story/jensen-huangs-troubles-leaves-the-ai-industry-reeling/)
- - [Take-Two reiterates FY 2027 outlook, says Q2 total net bookings fell 18% YoY to $1.6B, vs. $1.65B est., and NBA 2K27 missed sales forecast partly due to GTA VI &lpar;Jason Schreier/Bloomberg&rpar;](https://www.techmeme.com/261109/p47#a261109p47)<!-- TECH:END -->
+ - [Aura’s next color E Ink photo frame is smaller, cheaper, sharper, and more colorful](https://www.theverge.com/tech/1027926/aura-e-ink-digital-photo-frame-10-inch-price-availability)
+ - [Peak Design’s Roller Lite Carry-On is bigger on the inside — and cheaper, too](https://www.theverge.com/tech/1030186/peak-design-roller-lite-carry-on-review)
+ - [Adobe is going all in on agentic AI](https://www.theverge.com/tech/1030593/adobe-max-ai-agents-mcp-firefly-assistant-updates)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
