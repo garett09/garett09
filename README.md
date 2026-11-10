@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Job interviews with AI Karens is the new trend](http://9gag.com/gag/ap1EvV5)
+ - 🚖 [Imagine you graduate from honeypot CCP academy, and your first task is asmongold](http://9gag.com/gag/a9zb7qm)
  - 🚯 [Actually this was the chinese spy](http://9gag.com/gag/aoWEjBw)
- - 🚯 [Vibe coding in 2010](https://www.reddit.com/r/funny/comments/1xs9ce3/vibe_coding_in_2010/)<!-- MEMES:END -->
+ - 🚯 [Imagine you graduate from honeypot CCP academy, and your first task is asmongold](http://9gag.com/gag/a9zb7qm)<!-- MEMES:END -->
 
 --- 
 
