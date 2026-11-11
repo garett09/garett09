@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Peter please help](http://9gag.com/gag/aEMvR6e)
- - 🚯 [Imagine facing this and the 17th century in a wooden ship](http://9gag.com/gag/aj7YDwx)
- - 🚯 [Actually this was the chinese spy](http://9gag.com/gag/aoWEjBw)<!-- MEMES:END -->
+ - 🚖 [Some people are dumb](http://9gag.com/gag/ae4j6oj)
+ - 🚯 [Oh noo...](http://9gag.com/gag/abeXZnL)
+ - 🚯 [Whoopsie](http://9gag.com/gag/aXL0ABP)<!-- MEMES:END -->
 
 --- 
 
