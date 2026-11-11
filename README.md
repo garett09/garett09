@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [iPhone Duo photography overview: Great cameras that suffer in extreme low light](https://appleinsider.com/articles/26/11/11/iphone-duo-photography-overview-great-cameras-that-suffer-in-extreme-low-light?utm_source=rss)
- - [Wesleyan Media Project: political campaigns spent ~$187M on ~300 AI-generated or AI-enhanced ads in the midterms; 90% of tracked AI ads were for GOP candidates &lpar;Loreben Tuquero/Poynter&rpar;](https://www.techmeme.com/261111/p24#a261111p24)
- - [I asked every TV manufacturer 17 questions about how they spy on you](https://www.theverge.com/tech/1012372/tv-privacy-acr-questions)<!-- TECH:END -->
+ - [Sources: CoreWeave plans to raise $4B+ via an investment-grade loan as soon as next week; CoreWeave says it may yield 7%-7.5%, about half its junk bonds&#39; yield &lpar;Jeannine Amodeo/Bloomberg&rpar;](https://www.techmeme.com/261111/p47#a261111p47)
+ - [Sources: Howard Lutnick has stalled curbs on companies suspected of diverting Nvidia chips to China; Trump approved them for the third time this year on Nov. 5 &lpar;Axios&rpar;](https://www.techmeme.com/261111/p46#a261111p46)
+ - [Nvidia CEO Jensen Huang expected to be ousted](https://appleinsider.com/articles/26/11/11/nvidia-ceo-jensen-huang-expected-to-be-ousted?utm_source=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
