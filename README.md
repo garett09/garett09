@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [If you&#39;re getting dizzy using PROLED MacBook Pro, you are not alone](https://appleinsider.com/articles/26/11/10/if-youre-getting-dizzy-using-proled-macbook-pro-you-are-not-alone?utm_source=rss)
- - [Tech consultant Nima Momeni was sentenced to 16 years to life in prison for the second-degree murder of Cash App founder Bob Lee in 2023 &lpar;Heather Knight/New York Times&rpar;](https://www.techmeme.com/261110/p64#a261110p64)
- - [Apple Support Community Forums are shutting down](https://appleinsider.com/articles/26/11/11/apple-support-community-forums-are-shutting-down?utm_source=rss)<!-- TECH:END -->
+ - [iPhone Duo photography overview: Great cameras that suffer in extreme low light](https://appleinsider.com/articles/26/11/11/iphone-duo-photography-overview-great-cameras-that-suffer-in-extreme-low-light?utm_source=rss)
+ - [Wesleyan Media Project: political campaigns spent ~$187M on ~300 AI-generated or AI-enhanced ads in the midterms; 90% of tracked AI ads were for GOP candidates &lpar;Loreben Tuquero/Poynter&rpar;](https://www.techmeme.com/261111/p24#a261111p24)
+ - [I asked every TV manufacturer 17 questions about how they spy on you](https://www.theverge.com/tech/1012372/tv-privacy-acr-questions)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
