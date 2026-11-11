@@ -147,8 +147,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Some people are dumb](http://9gag.com/gag/ae4j6oj)
- - 🚯 [Oh noo...](http://9gag.com/gag/abeXZnL)
+ - 🚖 [Whoopsie](http://9gag.com/gag/aXL0ABP)
+ - 🚯 [Peter please help](http://9gag.com/gag/aEMvR6e)
  - 🚯 [Whoopsie](http://9gag.com/gag/aXL0ABP)<!-- MEMES:END -->
 
 --- 
