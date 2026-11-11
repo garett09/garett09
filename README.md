@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google details everything new in Android 17 QPR2](https://www.androidauthority.com/android-17-qpr2-stable-3733645/)
- - [Sources and records: 11+ NSA and US Cyber Command personnel died by suicide over the 12 months to September, prompting White House and Congressional questions &lpar;Jake Bleiberg/Bloomberg&rpar;](https://www.techmeme.com/261110/p54#a261110p54)
- - [Google Expands Gemini 4 Carbon Availability](https://www.cnet.com/tech/services-and-software/google-expands-gemini-4-carbon-availability/)<!-- TECH:END -->
+ - [If you&#39;re getting dizzy using PROLED MacBook Pro, you are not alone](https://appleinsider.com/articles/26/11/10/if-youre-getting-dizzy-using-proled-macbook-pro-you-are-not-alone?utm_source=rss)
+ - [Tech consultant Nima Momeni was sentenced to 16 years to life in prison for the second-degree murder of Cash App founder Bob Lee in 2023 &lpar;Heather Knight/New York Times&rpar;](https://www.techmeme.com/261110/p64#a261110p64)
+ - [Apple Support Community Forums are shutting down](https://appleinsider.com/articles/26/11/11/apple-support-community-forums-are-shutting-down?utm_source=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
