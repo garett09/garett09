@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Save up to 65% on eero routers, Ring doorbells, Amazon Fire TV ahead of Black Friday](https://appleinsider.com/articles/26/11/12/save-up-to-65-on-eero-routers-ring-doorbells-amazon-fire-tv-ahead-of-black-friday?utm_source=rss)
- - [Meet Colette Kress, Nvidia’s New Interim CEO](https://www.wired.com/story/who-is-colette-kress-the-woman-who-could-succeed-jensen-huang/)
- - [Google and Samsung open preorders for their Android XR &quot;Intelligent Eyewear&quot; smart glasses, for $395+ for Warby Parker frames and $449+ for Gentle Monster &lpar;Julian Chokkattu/Wired&rpar;](https://www.techmeme.com/261112/p28#a261112p28)<!-- TECH:END -->
+ - [Xbox owners are getting more customizations for backgrounds and the Guide menu](https://www.theverge.com/news/1032396/xbox-dashboard-guide-menu-right-side-background-shuffle-feature)
+ - [Google Fitbit Air syncing issues leave some iPhone users unable to access health data](https://www.androidauthority.com/google-fitbit-air-iphone-syncing-issues-3734762/)
+ - [Mint Mobile Will Give You $500 off Select New Phones When You Sign Up for a Year](https://www.wired.com/story/mint-mobile-phone-deal-november-2026/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
