@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: CoreWeave plans to raise $4B+ via an investment-grade loan as soon as next week; CoreWeave says it may yield 7%-7.5%, about half its junk bonds&#39; yield &lpar;Jeannine Amodeo/Bloomberg&rpar;](https://www.techmeme.com/261111/p47#a261111p47)
- - [Sources: Howard Lutnick has stalled curbs on companies suspected of diverting Nvidia chips to China; Trump approved them for the third time this year on Nov. 5 &lpar;Axios&rpar;](https://www.techmeme.com/261111/p46#a261111p46)
- - [Nvidia CEO Jensen Huang expected to be ousted](https://appleinsider.com/articles/26/11/11/nvidia-ceo-jensen-huang-expected-to-be-ousted?utm_source=rss)<!-- TECH:END -->
+ - [Sources: some Trump officials questioned Jensen Huang&#39;s push for Trump to allow more chip sales to China, even before his affair with Alice Huang became public &lpar;Wall Street Journal&rpar;](https://www.techmeme.com/261111/p54#a261111p54)
+ - [Channel flipping: Alternative Plex clients for tvOS, iOS, macOS](https://appleinsider.com/articles/26/11/12/channel-flipping-alternative-plex-clients-for-tvos-ios-macos?utm_source=rss)
+ - [Sources: the Commerce Department is finalizing a semiconductor control update that would prevent remote access and chip smuggling into China via data centers &lpar;Leo Schwartz/The Information&rpar;](https://www.techmeme.com/261111/p53#a261111p53)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
