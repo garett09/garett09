@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: some Trump officials questioned Jensen Huang&#39;s push for Trump to allow more chip sales to China, even before his affair with Alice Huang became public &lpar;Wall Street Journal&rpar;](https://www.techmeme.com/261111/p54#a261111p54)
- - [Channel flipping: Alternative Plex clients for tvOS, iOS, macOS](https://appleinsider.com/articles/26/11/12/channel-flipping-alternative-plex-clients-for-tvos-ios-macos?utm_source=rss)
- - [Sources: the Commerce Department is finalizing a semiconductor control update that would prevent remote access and chip smuggling into China via data centers &lpar;Leo Schwartz/The Information&rpar;](https://www.techmeme.com/261111/p53#a261111p53)<!-- TECH:END -->
+ - [Save up to 65% on eero routers, Ring doorbells, Amazon Fire TV ahead of Black Friday](https://appleinsider.com/articles/26/11/12/save-up-to-65-on-eero-routers-ring-doorbells-amazon-fire-tv-ahead-of-black-friday?utm_source=rss)
+ - [Meet Colette Kress, Nvidia’s New Interim CEO](https://www.wired.com/story/who-is-colette-kress-the-woman-who-could-succeed-jensen-huang/)
+ - [Google and Samsung open preorders for their Android XR &quot;Intelligent Eyewear&quot; smart glasses, for $395+ for Warby Parker frames and $449+ for Gentle Monster &lpar;Julian Chokkattu/Wired&rpar;](https://www.techmeme.com/261112/p28#a261112p28)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
