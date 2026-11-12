@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Whoopsie](http://9gag.com/gag/aXL0ABP)
+ - 🚖 [Tinder / When you finally meet her](http://9gag.com/gag/a9zbroL)
  - 🚯 [Peter please help](http://9gag.com/gag/aEMvR6e)
- - 🚯 [Whoopsie](http://9gag.com/gag/aXL0ABP)<!-- MEMES:END -->
+ - 🚯 [Tinder / When you finally meet her](http://9gag.com/gag/a9zbroL)<!-- MEMES:END -->
 
 --- 
 
