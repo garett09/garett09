@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Tinder / When you finally meet her](http://9gag.com/gag/a9zbroL)
+ - 🚖 [We know](http://9gag.com/gag/aD7Azd7)
  - 🚯 [Peter please help](http://9gag.com/gag/aEMvR6e)
- - 🚯 [Tinder / When you finally meet her](http://9gag.com/gag/a9zbroL)<!-- MEMES:END -->
+ - 🚯 [So this new place just opened in my city](https://www.reddit.com/r/funny/comments/1xudzb8/so_this_new_place_just_opened_in_my_city/)<!-- MEMES:END -->
 
 --- 
 
