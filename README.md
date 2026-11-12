@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [We know](http://9gag.com/gag/aD7Azd7)
- - 🚯 [Peter please help](http://9gag.com/gag/aEMvR6e)
- - 🚯 [So this new place just opened in my city](https://www.reddit.com/r/funny/comments/1xudzb8/so_this_new_place_just_opened_in_my_city/)<!-- MEMES:END -->
+ - 🚖 [Orange crook is sweating bullets desperately trying to project lmao](http://9gag.com/gag/aD7AxdK)
+ - 🚯 [Palestinian Tik Tok is now claiming that Israel is dropping snakes on Gaza. Over 200,000 likes. Genuinely the most low-IQ movement in history.](http://9gag.com/gag/aO2KzP6)
+ - 🚯 [Need to watch some good content](http://9gag.com/gag/aj7YXW0)<!-- MEMES:END -->
 
 --- 
 
