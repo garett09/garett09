@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Orange crook is sweating bullets desperately trying to project lmao](http://9gag.com/gag/aD7AxdK)
- - 🚯 [Palestinian Tik Tok is now claiming that Israel is dropping snakes on Gaza. Over 200,000 likes. Genuinely the most low-IQ movement in history.](http://9gag.com/gag/aO2KzP6)
- - 🚯 [Need to watch some good content](http://9gag.com/gag/aj7YXW0)<!-- MEMES:END -->
+ - 🚖 [Palestinian Tik Tok is now claiming that Israel is dropping snakes on Gaza. Over 200,000 likes. Genuinely the most low-IQ movement in history.](http://9gag.com/gag/aO2KzP6)
+ - 🚯 [18yo Scarlett Johansson](http://9gag.com/gag/avWpOzq)
+ - 🚯 [Men of culture!! Everything changes at 00:27 with the biggest plot twist in history!!](http://9gag.com/gag/aZnb3wV)<!-- MEMES:END -->
 
 --- 
 
