@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: social media companies&#39; payouts in teen addiction suits mostly ranged from $2M-$2.5M; Meta agreed to pay two teens a combined $7M in the past two weeks &lpar;Olivia Carville/Bloomberg&rpar;](https://www.techmeme.com/261112/p73#a261112p73)
- - [Sources: US officials disagree on whether Alice Huang spied on Jensen Huang for China; some at ODNI and CIA say intelligence collected so far doesn&#39;t prove it &lpar;CNN&rpar;](https://www.techmeme.com/261112/p72#a261112p72)
- - [Letter: ByteDance plans to buy back up to $6B worth of shares from existing investors at a ~$400B valuation, a 20% increase in valuation from its 2025 buyback &lpar;The Information&rpar;](https://www.techmeme.com/261112/p71#a261112p71)<!-- TECH:END -->
+ - [Google Wallet tests floating bar redesign with Home button and new animation](https://www.androidauthority.com/google-wallet-updated-floating-bar-test-apk-teardown-3734961/)
+ - [First Apple Home Collection devices can now be ordered](https://appleinsider.com/articles/26/11/13/first-apple-home-collection-devices-can-now-be-ordered?utm_source=rss)
+ - [Jensen Huang&#39;s departure exposes internal politics at Nvidia; source: Huang ran it as a &quot;feudal system&quot; with his daughter and son-in-law in powerful positions &lpar;Financial Times&rpar;](https://www.techmeme.com/261113/p10#a261113p10)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
