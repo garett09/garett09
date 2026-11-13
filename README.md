@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Wallet tests floating bar redesign with Home button and new animation](https://www.androidauthority.com/google-wallet-updated-floating-bar-test-apk-teardown-3734961/)
- - [First Apple Home Collection devices can now be ordered](https://appleinsider.com/articles/26/11/13/first-apple-home-collection-devices-can-now-be-ordered?utm_source=rss)
- - [Jensen Huang&#39;s departure exposes internal politics at Nvidia; source: Huang ran it as a &quot;feudal system&quot; with his daughter and son-in-law in powerful positions &lpar;Financial Times&rpar;](https://www.techmeme.com/261113/p10#a261113p10)<!-- TECH:END -->
+ - [Best Early Black Friday AirPods Deals &lpar;2026&rpar;](https://www.wired.com/story/best-early-black-friday-airpods-deals-11-13-2026/)
+ - [Source: the FBI is probing whether the FAA outage was caused by a software update, and doesn&#39;t believe it was due to a cyberattack or criminality &lpar;Myles Miller/Bloomberg&rpar;](https://www.techmeme.com/261113/p33#a261113p33)
+ - [The FAA announced on November 10 that it has expanded the use of SMART, an AI tool for advising air traffic controllers to manage congestion, across the US &lpar;Jeremy Hsu/Ars Technica&rpar;](https://www.techmeme.com/261113/p32#a261113p32)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
