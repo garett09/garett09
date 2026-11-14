@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Free speech group FIRE says DOJ and DHS will end efforts to curb &quot;ICE Sightings - Chicagoland&quot; Facebook group and Eyes Up iOS app, which report on ICE activity &lpar;Kanishka Singh/Reuters&rpar;](https://www.techmeme.com/261113/p41#a261113p41)
- - [US officials say Trump is not expected to raise allegations of a Chinese intelligence operation involving Jensen Huang during his upcoming meeting with Xi &lpar;Dan Mangan/CNBC&rpar;](https://www.techmeme.com/261113/p40#a261113p40)
- - [Tesla says &quot;select customers&quot; can now place orders for its Cybercab &quot;for personal use&quot;, for $30K plus a required $299/month Autonomy Subscription to operate &lpar;Kara Carlson/Bloomberg&rpar;](https://www.techmeme.com/261113/p39#a261113p39)<!-- TECH:END -->
+ - [How the Swiss city of Lugano is trying to reinvent itself as a crypto hub to boost its economy by launching its own token LVGA, partnering with Tether, and more &lpar;Financial Times&rpar;](https://www.techmeme.com/261114/p9#a261114p9)
+ - [I Put the Best Digital Notebooks to the Test. Here Are My Favorites &lpar;2026&rpar;](https://www.wired.com/gallery/best-smart-notebooks-and-smart-pens/)
+ - [How I freed up 36GB on my Android phone without deleting a single photo](https://www.androidauthority.com/free-up-android-storage-tips-3734228/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
