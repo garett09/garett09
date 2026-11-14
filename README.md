@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Temporary boyfriend](http://9gag.com/gag/aLLRgmA)
- - 🚯 [Youve been had](http://9gag.com/gag/aAQR3Eo)
- - 🚯 [Temporary boyfriend](http://9gag.com/gag/aLLRgmA)<!-- MEMES:END -->
+ - 🚖 [Want hardcore raids without the PvP pressure?](http://9gag.com/gag/awg0Amy)
+ - 🚯 [Definitely not a moth](http://9gag.com/gag/a9zbRnL)
+ - 🚯 [Youve been had](http://9gag.com/gag/aAQR3Eo)<!-- MEMES:END -->
 
 --- 
 
