@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How the Swiss city of Lugano is trying to reinvent itself as a crypto hub to boost its economy by launching its own token LVGA, partnering with Tether, and more &lpar;Financial Times&rpar;](https://www.techmeme.com/261114/p9#a261114p9)
- - [I Put the Best Digital Notebooks to the Test. Here Are My Favorites &lpar;2026&rpar;](https://www.wired.com/gallery/best-smart-notebooks-and-smart-pens/)
- - [How I freed up 36GB on my Android phone without deleting a single photo](https://www.androidauthority.com/free-up-android-storage-tips-3734228/)<!-- TECH:END -->
+ - [USD-pegged stablecoins are taking a growing share of Latin America&#39;s crypto activity, serving as a store of value and an efficient cross-border payment system &lpar;Maria Clara Cobo/Bloomberg&rpar;](https://www.techmeme.com/261114/p19#a261114p19)
+ - [Letter: Altimeter&#39;s Brad Gerstner and Atreides&#39;s Gavin Baker urge Nvidia&#39;s board to consider &quot;the potential return of Jensen Huang&quot;; they own $2.13B in Nvidia &lpar;Katie Tarasov/CNBC&rpar;](https://www.techmeme.com/261114/p18#a261114p18)
+ - [Magic: The Gathering is getting a Netflix animated series. For real this time.](https://www.theverge.com/entertainment/1033909/magic-the-gathering-netflix-series)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
