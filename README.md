@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [FAA just closed USA airspace.](http://9gag.com/gag/a6DmOYq)
- - 🚯 [Temporary boyfriend](http://9gag.com/gag/aLLRgmA)
- - 🚯 [Youve been had](http://9gag.com/gag/aAQR3Eo)<!-- MEMES:END -->
+ - 🚖 [Temporary boyfriend](http://9gag.com/gag/aLLRgmA)
+ - 🚯 [Youve been had](http://9gag.com/gag/aAQR3Eo)
+ - 🚯 [Temporary boyfriend](http://9gag.com/gag/aLLRgmA)<!-- MEMES:END -->
 
 --- 
 
