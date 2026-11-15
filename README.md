@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [23andMe&#39;s Anne Wojcicki, formerly married to Google co-founder Sergey Brin, says Jensen Huang&#39;s affair shows what happens when CEOs think they are &quot;untouchable&quot; &lpar;Bloomberg&rpar;](https://www.techmeme.com/261114/p22#a261114p22)
- - [Source: Applied Digital has asked tenants like Oracle and Meta for billions in guarantees since at least last year to secure power before finalizing leases &lpar;Bloomberg&rpar;](https://www.techmeme.com/261114/p21#a261114p21)
- - [Unlike other larger-than-life tech founders, Jensen Huang lacked super-voting shares in Nvidia, making it easier for him to lose control of the company &lpar;Forbes&rpar;](https://www.techmeme.com/261114/p20#a261114p20)<!-- TECH:END -->
+ - [Crime blotter: Truck driver pleads guilty to theft of iPhones, iPads](https://appleinsider.com/articles/26/11/15/crime-blotter-truck-driver-pleads-guilty-to-theft-of-iphones-ipads?utm_source=rss)
+ - [Inside the first AI Music Awards in Los Angeles, featuring AI announcers, lip-syncing, and human stand-ins, as the ceremony was mired in technical issues &lpar;Corbin Bolies/Variety&rpar;](https://www.techmeme.com/261115/p7#a261115p7)
+ - [The 4 Best Planners of 2027: Roterunner, Hobonichi, Cloth &amp; Paper](https://www.wired.com/story/best-paper-planners/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
