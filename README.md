@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Crime blotter: Truck driver pleads guilty to theft of iPhones, iPads](https://appleinsider.com/articles/26/11/15/crime-blotter-truck-driver-pleads-guilty-to-theft-of-iphones-ipads?utm_source=rss)
- - [Inside the first AI Music Awards in Los Angeles, featuring AI announcers, lip-syncing, and human stand-ins, as the ceremony was mired in technical issues &lpar;Corbin Bolies/Variety&rpar;](https://www.techmeme.com/261115/p7#a261115p7)
- - [The 4 Best Planners of 2027: Roterunner, Hobonichi, Cloth &amp; Paper](https://www.wired.com/story/best-paper-planners/)<!-- TECH:END -->
+ - [Analysis: Huawei&#39;s Horinger data center, among China&#39;s largest for AI, has ~7% of the compute of SpaceX&#39;s Colossus 2 and may stay far behind until at least 2028 &lpar;Ben Cottier/Epoch AI&rpar;](https://www.techmeme.com/261115/p16#a261115p16)
+ - [Listen to this: Armand Hammer’s Snakes &amp;#038; Ladders](https://www.theverge.com/entertainment/1034013/armand-hammers-snakes-ladders-review)
+ - [Vulcan rocket fails, destroying 40 Amazon Leo satellites](https://www.theverge.com/science/1034006/vulcan-rocket-fails-destroying-40-amazon-leo-satellites)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
