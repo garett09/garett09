@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Jackpot](http://9gag.com/gag/ap1E59E)
- - 🚯 [Nice to see the marriage spark re-ignited](http://9gag.com/gag/ae4jrAb)
- - 🚯 [Jackpot](http://9gag.com/gag/ap1E59E)<!-- MEMES:END -->
+ - 🚖 [The magician](http://9gag.com/gag/aXL0g2P)
+ - 🚯 [They could have given her a shirt :&lpar;](http://9gag.com/gag/avWpzYM)
+ - 🚯 [The magician](http://9gag.com/gag/aXL0g2P)<!-- MEMES:END -->
 
 --- 
 
