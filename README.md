@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [USD-pegged stablecoins are taking a growing share of Latin America&#39;s crypto activity, serving as a store of value and an efficient cross-border payment system &lpar;Maria Clara Cobo/Bloomberg&rpar;](https://www.techmeme.com/261114/p19#a261114p19)
- - [Letter: Altimeter&#39;s Brad Gerstner and Atreides&#39;s Gavin Baker urge Nvidia&#39;s board to consider &quot;the potential return of Jensen Huang&quot;; they own $2.13B in Nvidia &lpar;Katie Tarasov/CNBC&rpar;](https://www.techmeme.com/261114/p18#a261114p18)
- - [Magic: The Gathering is getting a Netflix animated series. For real this time.](https://www.theverge.com/entertainment/1033909/magic-the-gathering-netflix-series)<!-- TECH:END -->
+ - [23andMe&#39;s Anne Wojcicki, formerly married to Google co-founder Sergey Brin, says Jensen Huang&#39;s affair shows what happens when CEOs think they are &quot;untouchable&quot; &lpar;Bloomberg&rpar;](https://www.techmeme.com/261114/p22#a261114p22)
+ - [Source: Applied Digital has asked tenants like Oracle and Meta for billions in guarantees since at least last year to secure power before finalizing leases &lpar;Bloomberg&rpar;](https://www.techmeme.com/261114/p21#a261114p21)
+ - [Unlike other larger-than-life tech founders, Jensen Huang lacked super-voting shares in Nvidia, making it easier for him to lose control of the company &lpar;Forbes&rpar;](https://www.techmeme.com/261114/p20#a261114p20)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
