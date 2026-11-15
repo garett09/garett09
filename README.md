@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Want hardcore raids without the PvP pressure?](http://9gag.com/gag/awg0Amy)
+ - 🚖 [Jackpot](http://9gag.com/gag/ap1E59E)
  - 🚯 [Nice to see the marriage spark re-ignited](http://9gag.com/gag/ae4jrAb)
- - 🚯 [Entitled tourist](http://9gag.com/gag/aAQRgOo)<!-- MEMES:END -->
+ - 🚯 [Jackpot](http://9gag.com/gag/ap1E59E)<!-- MEMES:END -->
 
 --- 
 
