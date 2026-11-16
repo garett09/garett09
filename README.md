@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Analysis: Huawei&#39;s Horinger data center, among China&#39;s largest for AI, has ~7% of the compute of SpaceX&#39;s Colossus 2 and may stay far behind until at least 2028 &lpar;Ben Cottier/Epoch AI&rpar;](https://www.techmeme.com/261115/p16#a261115p16)
- - [Listen to this: Armand Hammer’s Snakes &amp;#038; Ladders](https://www.theverge.com/entertainment/1034013/armand-hammers-snakes-ladders-review)
- - [Vulcan rocket fails, destroying 40 Amazon Leo satellites](https://www.theverge.com/science/1034006/vulcan-rocket-fails-destroying-40-amazon-leo-satellites)<!-- TECH:END -->
+ - [Alibaba says Qwen4-Max, which isn&#39;t open weight, beats Fable 5.1 and Kimi K3.1 Pro in coding benchmarks, and plans to release weights for smaller Qwen4 models &lpar;Luz Ding/Bloomberg&rpar;](https://www.techmeme.com/261115/p26#a261115p26)
+ - [Alibaba releases Qwen4-Max, its new flagship 2.4T-parameter MoE model with a 1M-token context window, saying it beats Qwen3.8-Max with up to ~50% fewer tokens &lpar;Qwen&rpar;](https://www.techmeme.com/261115/p25#a261115p25)
+ - [Samsung’s ‘Galaxy Claw’ is no longer a mystery, and it looks pretty ambitious](https://www.androidauthority.com/samsung-galaxy-claw-3735274/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
