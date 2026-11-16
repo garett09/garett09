@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Alibaba says Qwen4-Max, which isn&#39;t open weight, beats Fable 5.1 and Kimi K3.1 Pro in coding benchmarks, and plans to release weights for smaller Qwen4 models &lpar;Luz Ding/Bloomberg&rpar;](https://www.techmeme.com/261115/p26#a261115p26)
- - [Alibaba releases Qwen4-Max, its new flagship 2.4T-parameter MoE model with a 1M-token context window, saying it beats Qwen3.8-Max with up to ~50% fewer tokens &lpar;Qwen&rpar;](https://www.techmeme.com/261115/p25#a261115p25)
- - [Samsung’s ‘Galaxy Claw’ is no longer a mystery, and it looks pretty ambitious](https://www.androidauthority.com/samsung-galaxy-claw-3735274/)<!-- TECH:END -->
+ - [iPhone 20 Pro will resemble a more rounded iPhone Air](https://appleinsider.com/articles/26/11/16/iphone-20-pro-will-resemble-a-more-rounded-iphone-air?utm_source=rss)
+ - [Mercedes’ New Point-to-Point Driver Assist Helped Me Overcome My Fear of Driving](https://www.cnet.com/roadshow/auto-tech/mercedes-point-to-point-driver-assist-test-hands-on/)
+ - [Audible is trying to make it easier to find audiobooks you’ll actually like](https://www.theverge.com/tech/1034083/audible-audio-discovery-ai-feature-availability)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
