@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The magician](http://9gag.com/gag/aXL0g2P)
- - 🚯 [They could have given her a shirt :&lpar;](http://9gag.com/gag/avWpzYM)
- - 🚯 [The magician](http://9gag.com/gag/aXL0g2P)<!-- MEMES:END -->
+ - 🚖 [Would you?](http://9gag.com/gag/aGLYpB7)
+ - 🚯 [Full image in the comments](http://9gag.com/gag/ap1ENL5)
+ - 🚯 [She deserved more karma](http://9gag.com/gag/a4nKEEd)<!-- MEMES:END -->
 
 --- 
 
