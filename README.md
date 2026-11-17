@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [iPhone 20 Pro will resemble a more rounded iPhone Air](https://appleinsider.com/articles/26/11/16/iphone-20-pro-will-resemble-a-more-rounded-iphone-air?utm_source=rss)
- - [Mercedes’ New Point-to-Point Driver Assist Helped Me Overcome My Fear of Driving](https://www.cnet.com/roadshow/auto-tech/mercedes-point-to-point-driver-assist-test-hands-on/)
- - [Audible is trying to make it easier to find audiobooks you’ll actually like](https://www.theverge.com/tech/1034083/audible-audio-discovery-ai-feature-availability)<!-- TECH:END -->
+ - [The 8 Best Movies to Stream Right Now &lpar;November 2026&rpar;](https://www.wired.com/story/the-8-best-movies-to-stream-right-now/)
+ - [School Campuses Emerge as the Latest Battleground for Flock Safety Cameras](https://www.cnet.com/news/privacy/school-campuses-flock-safety-cameras/)
+ - [Keychron K2 Ultra 8K review: More affordable 8KHz polling &amp; custom RGB](https://appleinsider.com/articles/26/11/17/keychron-k2-ultra-8k-review-more-affordable-8khz-polling-custom-rgb?utm_source=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
