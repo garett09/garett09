@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The 8 Best Movies to Stream Right Now &lpar;November 2026&rpar;](https://www.wired.com/story/the-8-best-movies-to-stream-right-now/)
- - [School Campuses Emerge as the Latest Battleground for Flock Safety Cameras](https://www.cnet.com/news/privacy/school-campuses-flock-safety-cameras/)
- - [Keychron K2 Ultra 8K review: More affordable 8KHz polling &amp; custom RGB](https://appleinsider.com/articles/26/11/17/keychron-k2-ultra-8k-review-more-affordable-8khz-polling-custom-rgb?utm_source=rss)<!-- TECH:END -->
+ - [Trump administration backs down after pushing Apple to pull ICE tracking app](https://appleinsider.com/articles/26/11/17/trump-administration-backs-down-after-pushing-apple-to-pull-ice-tracking-app?utm_source=rss)
+ - [France takes Apple to court over &#39;planned obsolescence&#39;](https://appleinsider.com/articles/26/11/17/france-takes-apple-to-court-over-planned-obsolescence?utm_source=rss)
+ - [Apple Pencil on iPhone Duo is the bare-minimum experience, but works](https://appleinsider.com/articles/26/11/17/apple-pencil-on-iphone-duo-is-the-bare-minimum-experience-but-works?utm_source=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
