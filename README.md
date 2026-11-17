@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Scammer gets what he deserves](http://9gag.com/gag/aVgzbz2)
- - 🚯 [James Bond](http://9gag.com/gag/axWdBmW)
- - 🚯 [Which nation has produced the world&#39;s most magnificent architecture throughout history?](http://9gag.com/gag/aoWEgvg)<!-- MEMES:END -->
+ - 🚖 [Make sure you have another job offer in hand before you pull this trick on HR.](http://9gag.com/gag/aLLR1gv)
+ - 🚯 [The kills kill](http://9gag.com/gag/abeXAqL)
+ - 🚯 [I know you are](http://9gag.com/gag/a5VeEYr)<!-- MEMES:END -->
 
 --- 
 
