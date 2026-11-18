@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Apollo&#39;s $40B chip financing for SpaceX is structured via a special-purpose vehicle, letting SpaceX keep it off balance sheet and rent the GPUs &lpar;Ellen DiMauro/Semafor&rpar;](https://www.techmeme.com/261118/p24#a261118p24)
- - [See all the finalists for Apple&#39;s 2026 App Store Awards](https://appleinsider.com/articles/26/11/18/see-all-the-finalists-for-apples-2026-app-store-awards?utm_source=rss)
- - [M5 Pro Mac mini drops to $1,549 with Amazon&#39;s early Black Friday markdown](https://appleinsider.com/articles/26/11/18/m5-pro-mac-mini-drops-to-1549-with-amazons-early-black-friday-markdown?utm_source=rss)<!-- TECH:END -->
+ - [Palo Alto Networks reports Q1 revenue up 39% YoY to $3.45B, above $3.31B est., and raises its FY 2027 revenue forecast; PANW jumps 7%+ after hours &lpar;Reuters&rpar;](https://www.techmeme.com/261118/p47#a261118p47)
+ - [50M unique listeners tune into Apple Music Radio per month, says Zane Lowe](https://appleinsider.com/articles/26/11/18/50m-unique-listeners-tune-into-apple-music-radio-per-month-says-zane-lowe?utm_source=rss)
+ - [The nation’s largest school districts consider ditching Google Search](https://www.theverge.com/ai-artificial-intelligence/1037151/school-districts-ditching-google)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
