@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Trump administration backs down after pushing Apple to pull ICE tracking app](https://appleinsider.com/articles/26/11/17/trump-administration-backs-down-after-pushing-apple-to-pull-ice-tracking-app?utm_source=rss)
- - [France takes Apple to court over &#39;planned obsolescence&#39;](https://appleinsider.com/articles/26/11/17/france-takes-apple-to-court-over-planned-obsolescence?utm_source=rss)
- - [Apple Pencil on iPhone Duo is the bare-minimum experience, but works](https://appleinsider.com/articles/26/11/17/apple-pencil-on-iphone-duo-is-the-bare-minimum-experience-but-works?utm_source=rss)<!-- TECH:END -->
+ - [Colette Kress says Nvidia will no longer sell H200 chips in China, ending its role in a deal brokered by Huang and Trump that let the US collect a 25% tariff &lpar;Tim Fernholz/TechCrunch&rpar;](https://www.techmeme.com/261117/p63#a261117p63)
+ - [Satya Nadella says he’s AGI-pilled now](https://www.theverge.com/tech/1036111/satya-nadella-says-hes-agi-pilled-now)
+ - [Nvidia interim CEO Colette Kress says the company will stay &quot;disciplined and selective&quot; in supporting neoclouds; CoreWeave and Nebius jump 9%+ after hours &lpar;Ina Fried/Axios&rpar;](https://www.techmeme.com/261117/p62#a261117p62)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
