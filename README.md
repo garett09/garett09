@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Colette Kress says Nvidia will no longer sell H200 chips in China, ending its role in a deal brokered by Huang and Trump that let the US collect a 25% tariff &lpar;Tim Fernholz/TechCrunch&rpar;](https://www.techmeme.com/261117/p63#a261117p63)
- - [Satya Nadella says he’s AGI-pilled now](https://www.theverge.com/tech/1036111/satya-nadella-says-hes-agi-pilled-now)
- - [Nvidia interim CEO Colette Kress says the company will stay &quot;disciplined and selective&quot; in supporting neoclouds; CoreWeave and Nebius jump 9%+ after hours &lpar;Ina Fried/Axios&rpar;](https://www.techmeme.com/261117/p62#a261117p62)<!-- TECH:END -->
+ - [Sources: Apollo&#39;s $40B chip financing for SpaceX is structured via a special-purpose vehicle, letting SpaceX keep it off balance sheet and rent the GPUs &lpar;Ellen DiMauro/Semafor&rpar;](https://www.techmeme.com/261118/p24#a261118p24)
+ - [See all the finalists for Apple&#39;s 2026 App Store Awards](https://appleinsider.com/articles/26/11/18/see-all-the-finalists-for-apples-2026-app-store-awards?utm_source=rss)
+ - [M5 Pro Mac mini drops to $1,549 with Amazon&#39;s early Black Friday markdown](https://appleinsider.com/articles/26/11/18/m5-pro-mac-mini-drops-to-1549-with-amazons-early-black-friday-markdown?utm_source=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
