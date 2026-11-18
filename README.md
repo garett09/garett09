@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [That condescending irritating voice of the dispatcher when lives are on the line. Why do some americans speak like this?](http://9gag.com/gag/aAQRyWR)
- - 🚯 [Make sure you have another job offer in hand before you pull this trick on HR.](http://9gag.com/gag/aLLR1gv)
- - 🚯 [That condescending irritating voice of the dispatcher when lives are on the line. Why do some americans speak like this?](http://9gag.com/gag/aAQRyWR)<!-- MEMES:END -->
+ - 🚖 [Girl cooking](http://9gag.com/gag/aEMvM5e)
+ - 🚯 [You can&#39;t kill ppl protesting for LGBTQ rights in GTA VI](http://9gag.com/gag/aVgzgrw)
+ - 🚯 [Make sure you have another job offer in hand before you pull this trick on HR.](http://9gag.com/gag/aLLR1gv)<!-- MEMES:END -->
 
 --- 
 
