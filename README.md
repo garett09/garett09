@@ -148,8 +148,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 🚖 [Make sure you have another job offer in hand before you pull this trick on HR.](http://9gag.com/gag/aLLR1gv)
- - 🚯 [The kills kill](http://9gag.com/gag/abeXAqL)
- - 🚯 [I know you are](http://9gag.com/gag/a5VeEYr)<!-- MEMES:END -->
+ - 🚯 [I know you are](http://9gag.com/gag/a5VeEYr)
+ - 🚯 [Make sure you have another job offer in hand before you pull this trick on HR.](http://9gag.com/gag/aLLR1gv)<!-- MEMES:END -->
 
 --- 
 
