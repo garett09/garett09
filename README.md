@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [One UI 9.5 could bring native full-sensor video recording to Galaxy phones](https://www.androidauthority.com/one-ui-9-5-native-open-gate-recording-camera-apk-teardown-3736993/)
- - [Google AI Ultra now includes YouTube Premium Family at no extra cost](https://www.androidauthority.com/google-ai-ultra-youtube-premium-family-3736982/)
- - [Internal posts show Meta employees raising concerns that Muse could be mixing up conversations between different accounts and exposing users&#39; private data &lpar;Katie Paul/Reuters&rpar;](https://www.techmeme.com/261118/p64#a261118p64)<!-- TECH:END -->
+ - [UK can&#39;t hide that it tried ordering Apple to allow access to user data](https://appleinsider.com/articles/26/11/19/uk-cant-hide-that-it-tried-ordering-apple-to-allow-access-to-user-data?utm_source=rss)
+ - [Sony’s WH-1000XM6 noise canceling headphones get a $112 price cut](https://www.androidauthority.com/sony-wh-1000xm6-black-friday-deal-3737244/)
+ - [Save $180 on the Kindle Scribe Colorsoft in Black Friday deal](https://www.androidauthority.com/kindle-scribe-colorsoft-black-friday-deal-3737243/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
