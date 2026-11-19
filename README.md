@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Palo Alto Networks reports Q1 revenue up 39% YoY to $3.45B, above $3.31B est., and raises its FY 2027 revenue forecast; PANW jumps 7%+ after hours &lpar;Reuters&rpar;](https://www.techmeme.com/261118/p47#a261118p47)
- - [50M unique listeners tune into Apple Music Radio per month, says Zane Lowe](https://appleinsider.com/articles/26/11/18/50m-unique-listeners-tune-into-apple-music-radio-per-month-says-zane-lowe?utm_source=rss)
- - [The nation’s largest school districts consider ditching Google Search](https://www.theverge.com/ai-artificial-intelligence/1037151/school-districts-ditching-google)<!-- TECH:END -->
+ - [One UI 9.5 could bring native full-sensor video recording to Galaxy phones](https://www.androidauthority.com/one-ui-9-5-native-open-gate-recording-camera-apk-teardown-3736993/)
+ - [Google AI Ultra now includes YouTube Premium Family at no extra cost](https://www.androidauthority.com/google-ai-ultra-youtube-premium-family-3736982/)
+ - [Internal posts show Meta employees raising concerns that Muse could be mixing up conversations between different accounts and exposing users&#39; private data &lpar;Katie Paul/Reuters&rpar;](https://www.techmeme.com/261118/p64#a261118p64)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
