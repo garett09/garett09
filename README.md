@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Girl cooking](http://9gag.com/gag/aEMvM5e)
+ - 🚖 [You can&#39;t kill ppl protesting for LGBTQ rights in GTA VI](http://9gag.com/gag/aVgzgrw)
  - 🚯 [You can&#39;t kill ppl protesting for LGBTQ rights in GTA VI](http://9gag.com/gag/aVgzgrw)
- - 🚯 [Make sure you have another job offer in hand before you pull this trick on HR.](http://9gag.com/gag/aLLR1gv)<!-- MEMES:END -->
+ - 🚯 [You can&#39;t kill ppl protesting for LGBTQ rights in GTA VI](http://9gag.com/gag/aVgzgrw)<!-- MEMES:END -->
 
 --- 
 
