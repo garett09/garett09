@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [You can&#39;t kill ppl protesting for LGBTQ rights in GTA VI](http://9gag.com/gag/aVgzgrw)
- - 🚯 [You can&#39;t kill ppl protesting for LGBTQ rights in GTA VI](http://9gag.com/gag/aVgzgrw)
- - 🚯 [You can&#39;t kill ppl protesting for LGBTQ rights in GTA VI](http://9gag.com/gag/aVgzgrw)<!-- MEMES:END -->
+ - 🚖 [The Cozy Room](http://9gag.com/gag/a8AL6B1)
+ - 🚯 [$imp Sim VI](http://9gag.com/gag/aYGNEG7)
+ - 🚯 [Activists and minority NPCs are invulnerable in GTA VI. And Nexusmod will ban any mod that remove their invincibility](http://9gag.com/gag/amWN17j)<!-- MEMES:END -->
 
 --- 
 
