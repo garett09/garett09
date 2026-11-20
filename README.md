@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Actor Behind GTA 6\u2019s Mandy Reveals Her Identity After Taking The Internet By Storm](http://9gag.com/gag/a0o80ZO)
- - 🚯 [The Cozy Room](http://9gag.com/gag/a8AL6B1)
- - 🚯 [Alright Johnny Sins...](http://9gag.com/gag/aoWEV82)<!-- MEMES:END -->
+ - 🚖 [The Cozy Room](http://9gag.com/gag/a8AL6B1)
+ - 🚯 [Alright Johnny Sins...](http://9gag.com/gag/aoWEV82)
+ - 🚯 [Actor Behind GTA 6\u2019s Mandy Reveals Her Identity After Taking The Internet By Storm](http://9gag.com/gag/a0o80ZO)<!-- MEMES:END -->
 
 --- 
 
