@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Source: Coinbase is targeting H1 2027 to begin offering in-house event contracts in the US; it currently offers prediction markets through a Kalshi partnership &lpar;Bloomberg&rpar;](https://www.techmeme.com/261120/p15#a261120p15)
- - [This Android player smartly trims disruptions from podcasts using AI](https://www.androidauthority.com/new-ai-apps-services-trimplayer-3737704/)
- - [The week everything fell apart](https://www.theverge.com/podcast/1038419/outage-outlook-ground-stop-tech-failure-vergecast)<!-- TECH:END -->
+ - [Cops Are Pushing Extremely Corny ‘Grand Theft Auto 6’ Slop](https://www.wired.com/story/cops-are-being-extremely-corny-about-gta-vi/)
+ - [Sources: Wonder is exploring a sale of Grubhub, which it bought in 2024 for $650M; bankers have been in contact with Walmart, Target, Kroger and other retailers &lpar;Wall Street Journal&rpar;](https://www.techmeme.com/261120/p41#a261120p41)
+ - [Sources: Databricks is in early talks to raise several billion dollars at a ~$225B valuation, after closing a $5B round at a $190B valuation in August &lpar;Wall Street Journal&rpar;](https://www.techmeme.com/261120/p40#a261120p40)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
