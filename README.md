@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [UK can&#39;t hide that it tried ordering Apple to allow access to user data](https://appleinsider.com/articles/26/11/19/uk-cant-hide-that-it-tried-ordering-apple-to-allow-access-to-user-data?utm_source=rss)
- - [Sony’s WH-1000XM6 noise canceling headphones get a $112 price cut](https://www.androidauthority.com/sony-wh-1000xm6-black-friday-deal-3737244/)
- - [Save $180 on the Kindle Scribe Colorsoft in Black Friday deal](https://www.androidauthority.com/kindle-scribe-colorsoft-black-friday-deal-3737243/)<!-- TECH:END -->
+ - [Dudes Online Are So Mad That ‘Grand Theft Auto 6’ Makes Them Respect Women](https://www.wired.com/story/dudes-online-are-so-mad-that-gta-vi-makes-them-respect-women/)
+ - [Sources: Nvidia is in advanced talks to acquire diffusion LLM developer Inception for $500M+ plus earnouts; talks began before Jensen Huang&#39;s resignation &lpar;The Information&rpar;](https://www.techmeme.com/261119/p54#a261119p54)
+ - [Sources: National Cyber Director Sean Cairncross is leaving now to let the White House get a successor confirmed before Democrats take the Senate in January &lpar;Axios&rpar;](https://www.techmeme.com/261119/p53#a261119p53)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
