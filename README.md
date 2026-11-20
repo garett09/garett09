@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Dudes Online Are So Mad That ‘Grand Theft Auto 6’ Makes Them Respect Women](https://www.wired.com/story/dudes-online-are-so-mad-that-gta-vi-makes-them-respect-women/)
- - [Sources: Nvidia is in advanced talks to acquire diffusion LLM developer Inception for $500M+ plus earnouts; talks began before Jensen Huang&#39;s resignation &lpar;The Information&rpar;](https://www.techmeme.com/261119/p54#a261119p54)
- - [Sources: National Cyber Director Sean Cairncross is leaving now to let the White House get a successor confirmed before Democrats take the Senate in January &lpar;Axios&rpar;](https://www.techmeme.com/261119/p53#a261119p53)<!-- TECH:END -->
+ - [Source: Coinbase is targeting H1 2027 to begin offering in-house event contracts in the US; it currently offers prediction markets through a Kalshi partnership &lpar;Bloomberg&rpar;](https://www.techmeme.com/261120/p15#a261120p15)
+ - [This Android player smartly trims disruptions from podcasts using AI](https://www.androidauthority.com/new-ai-apps-services-trimplayer-3737704/)
+ - [The week everything fell apart](https://www.theverge.com/podcast/1038419/outage-outlook-ground-stop-tech-failure-vergecast)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
