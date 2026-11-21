@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The Cozy Room](http://9gag.com/gag/a8AL6B1)
- - 🚯 [Alright Johnny Sins...](http://9gag.com/gag/aoWEV82)
- - 🚯 [Actor Behind GTA 6\u2019s Mandy Reveals Her Identity After Taking The Internet By Storm](http://9gag.com/gag/a0o80ZO)<!-- MEMES:END -->
+ - 🚖 [Cuck Boyfriend Simulator](http://9gag.com/gag/anOqvb5)
+ - 🚯 [Punching like a girl](http://9gag.com/gag/aQgP72d)
+ - 🚯 [`Woke Theft Auto` introduced `empathy system` to reward people for not doing crimes](http://9gag.com/gag/agQ37Vg)<!-- MEMES:END -->
 
 --- 
 
