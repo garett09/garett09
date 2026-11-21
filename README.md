@@ -147,8 +147,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [GTA 6 Fans Are Now Switching From Mandy To Goth Girl Vicki](http://9gag.com/gag/az5gG4Z)
- - 🚯 [Wow like GTA cops](http://9gag.com/gag/aD7AZQZ)
+ - 🚖 [Has anyone found this one in gta yet](http://9gag.com/gag/aBZRPqP)
+ - 🚯 [Straight in the feels](http://9gag.com/gag/adv0xyV)
  - 🚯 [Dad, pick me up im scared](http://9gag.com/gag/ap1EPd5)<!-- MEMES:END -->
 
 --- 
