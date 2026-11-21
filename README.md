@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Masayoshi Son recently explored a possible $1T buyout of SK Hynix; SoftBank says the deal is &quot;no longer under active consideration&quot; &lpar;The Information&rpar;](https://www.techmeme.com/261120/p45#a261120p45)
- - [Sources: the FBI is investigating an apparent breach of its NCIC database, which is used by law enforcement to share info on warrants and background checks &lpar;Evan Perez/CNN&rpar;](https://www.techmeme.com/261120/p44#a261120p44)
- - [Oracle says it has secured funding for its infrastructure contract with OpenAI and &quot;any further private discussions with vendors are just additional options&quot; &lpar;@oracle&rpar;](https://www.techmeme.com/261120/p43#a261120p43)<!-- TECH:END -->
+ - [Anker’s 13-in-1 dock with a pop-out travel hub is $50 off](https://www.androidauthority.com/anker-nano-13-in-1-docking-station-deal-3737772/)
+ - [Save $142 on the TCL NXTPAPER 11 Plus this Black Friday](https://www.androidauthority.com/tcl-nxtpaper-11-plus-black-friday-deal-3737826/)
+ - [The Outages Are Just Getting Started](https://www.wired.com/story/brace-yourself-for-years-of-outage-chaos/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
