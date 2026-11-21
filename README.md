@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Cops Are Pushing Extremely Corny ‘Grand Theft Auto 6’ Slop](https://www.wired.com/story/cops-are-being-extremely-corny-about-gta-vi/)
- - [Sources: Wonder is exploring a sale of Grubhub, which it bought in 2024 for $650M; bankers have been in contact with Walmart, Target, Kroger and other retailers &lpar;Wall Street Journal&rpar;](https://www.techmeme.com/261120/p41#a261120p41)
- - [Sources: Databricks is in early talks to raise several billion dollars at a ~$225B valuation, after closing a $5B round at a $190B valuation in August &lpar;Wall Street Journal&rpar;](https://www.techmeme.com/261120/p40#a261120p40)<!-- TECH:END -->
+ - [Sources: Masayoshi Son recently explored a possible $1T buyout of SK Hynix; SoftBank says the deal is &quot;no longer under active consideration&quot; &lpar;The Information&rpar;](https://www.techmeme.com/261120/p45#a261120p45)
+ - [Sources: the FBI is investigating an apparent breach of its NCIC database, which is used by law enforcement to share info on warrants and background checks &lpar;Evan Perez/CNN&rpar;](https://www.techmeme.com/261120/p44#a261120p44)
+ - [Oracle says it has secured funding for its infrastructure contract with OpenAI and &quot;any further private discussions with vendors are just additional options&quot; &lpar;@oracle&rpar;](https://www.techmeme.com/261120/p43#a261120p43)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
