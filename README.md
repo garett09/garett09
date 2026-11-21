@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Anker’s 13-in-1 dock with a pop-out travel hub is $50 off](https://www.androidauthority.com/anker-nano-13-in-1-docking-station-deal-3737772/)
- - [Save $142 on the TCL NXTPAPER 11 Plus this Black Friday](https://www.androidauthority.com/tcl-nxtpaper-11-plus-black-friday-deal-3737826/)
- - [The Outages Are Just Getting Started](https://www.wired.com/story/brace-yourself-for-years-of-outage-chaos/)<!-- TECH:END -->
+ - [Amazon is complaining about NYC Council on shipping labels, too](https://www.theverge.com/tech/1039564/amazon-nyc-council-packages-shipping-label)
+ - [Researchers used canary credentials in requests to AI routers like OpenRouter and Vercel, even under &quot;ZDR&quot; policies, and saw &quot;privacy&quot; often broken, keys stolen &lpar;Dan Goodin/Ars Technica&rpar;](https://www.techmeme.com/261121/p10#a261121p10)
+ - [The UN fails to agree on rules regulating ‘killer robots’](https://www.theverge.com/tech/1039554/un-regulations-killer-robots)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
