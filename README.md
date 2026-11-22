@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Matchmakers say more tech workers fear romantic espionage after the Jensen Huang scandal; an AI companion app pitches &quot;zero espionage&quot; executive girlfriends &lpar;Wired&rpar;](https://www.techmeme.com/261121/p11#a261121p11)
  - [Amazon is complaining about NYC Council on shipping labels, too](https://www.theverge.com/tech/1039564/amazon-nyc-council-packages-shipping-label)
- - [Researchers used canary credentials in requests to AI routers like OpenRouter and Vercel, even under &quot;ZDR&quot; policies, and saw &quot;privacy&quot; often broken, keys stolen &lpar;Dan Goodin/Ars Technica&rpar;](https://www.techmeme.com/261121/p10#a261121p10)
- - [The UN fails to agree on rules regulating ‘killer robots’](https://www.theverge.com/tech/1039554/un-regulations-killer-robots)<!-- TECH:END -->
+ - [Researchers used canary credentials in requests to AI routers like OpenRouter and Vercel, even under &quot;ZDR&quot; policies, and saw &quot;privacy&quot; often broken, keys stolen &lpar;Dan Goodin/Ars Technica&rpar;](https://www.techmeme.com/261121/p10#a261121p10)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
