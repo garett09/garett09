@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [GTA 6 Fans Are Now Switching From Mandy To Goth Girl Vicki](http://9gag.com/gag/az5gG4Z)
- - 🚯 [Dad, pick me up im scared](http://9gag.com/gag/ap1EPd5)
- - 🚯 [Turn the camera off, and we&#39;ll show you!!](http://9gag.com/gag/awg0OPr)<!-- MEMES:END -->
+ - 🚖 [Nordic Aryan Girl from 1370 BC](http://9gag.com/gag/ae4jxXq)
+ - 🚯 [Asian woman&#39;s age](http://9gag.com/gag/aEMvD2O)
+ - 🚯 [Dad, pick me up im scared](http://9gag.com/gag/ap1EPd5)<!-- MEMES:END -->
 
 --- 
 
