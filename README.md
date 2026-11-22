@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Matchmakers say more tech workers fear romantic espionage after the Jensen Huang scandal; an AI companion app pitches &quot;zero espionage&quot; executive girlfriends &lpar;Wired&rpar;](https://www.techmeme.com/261121/p11#a261121p11)
- - [Amazon is complaining about NYC Council on shipping labels, too](https://www.theverge.com/tech/1039564/amazon-nyc-council-packages-shipping-label)
- - [Researchers used canary credentials in requests to AI routers like OpenRouter and Vercel, even under &quot;ZDR&quot; policies, and saw &quot;privacy&quot; often broken, keys stolen &lpar;Dan Goodin/Ars Technica&rpar;](https://www.techmeme.com/261121/p10#a261121p10)<!-- TECH:END -->
+ - [TCL TAB A1 Plus NXTPAPER hits a record low for Black Friday](https://www.androidauthority.com/tcl-tab-a1-plus-nxtpaper-black-friday-deal-3737817/)
+ - [How Tamagotchis got us hooked on digital pets](https://www.theverge.com/podcast/1039716/tamagotchi-history-digital-pets-anniversary)
+ - [Andrew Garfield on Becoming Sam Altman in ‘Artificial’: ‘I’m Dying to Understand This Person’](https://www.cnet.com/culture/entertainment/andrew-garfield-becoming-sam-altman-artificial/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
