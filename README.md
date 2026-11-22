@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [TCL TAB A1 Plus NXTPAPER hits a record low for Black Friday](https://www.androidauthority.com/tcl-tab-a1-plus-nxtpaper-black-friday-deal-3737817/)
- - [How Tamagotchis got us hooked on digital pets](https://www.theverge.com/podcast/1039716/tamagotchi-history-digital-pets-anniversary)
- - [Andrew Garfield on Becoming Sam Altman in ‘Artificial’: ‘I’m Dying to Understand This Person’](https://www.cnet.com/culture/entertainment/andrew-garfield-becoming-sam-altman-artificial/)<!-- TECH:END -->
+ - [We haven’t seen the last of the major tech outages](https://www.theverge.com/tech/1039851/major-tech-outages)
+ - [Sunday Reboot: Siri AI limits and the possibility of pettiness](https://appleinsider.com/articles/26/11/22/sunday-reboot-siri-ai-limits-and-the-possibility-of-pettiness?utm_source=rss)
+ - [Today’s NYT Connections Hints and Answers for Monday, Nov. 23, #1261](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-november-23-1261/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
