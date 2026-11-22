@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Has anyone found this one in gta yet](http://9gag.com/gag/aBZRPqP)
- - 🚯 [Straight in the feels](http://9gag.com/gag/adv0xyV)
- - 🚯 [Dad, pick me up im scared](http://9gag.com/gag/ap1EPd5)<!-- MEMES:END -->
+ - 🚖 [Straight in the feels](http://9gag.com/gag/adv0xyV)
+ - 🚯 [Dad, pick me up im scared](http://9gag.com/gag/ap1EPd5)
+ - 🚯 [Don&#39;t share it. Trust me](http://9gag.com/gag/a78L95L)<!-- MEMES:END -->
 
 --- 
 
