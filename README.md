@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Straight in the feels](http://9gag.com/gag/adv0xyV)
+ - 🚖 [GTA 6 Fans Are Now Switching From Mandy To Goth Girl Vicki](http://9gag.com/gag/az5gG4Z)
  - 🚯 [Dad, pick me up im scared](http://9gag.com/gag/ap1EPd5)
- - 🚯 [Don&#39;t share it. Trust me](http://9gag.com/gag/a78L95L)<!-- MEMES:END -->
+ - 🚯 [Turn the camera off, and we&#39;ll show you!!](http://9gag.com/gag/awg0OPr)<!-- MEMES:END -->
 
 --- 
 
