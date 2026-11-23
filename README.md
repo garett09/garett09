@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [We haven’t seen the last of the major tech outages](https://www.theverge.com/tech/1039851/major-tech-outages)
- - [Sunday Reboot: Siri AI limits and the possibility of pettiness](https://appleinsider.com/articles/26/11/22/sunday-reboot-siri-ai-limits-and-the-possibility-of-pettiness?utm_source=rss)
- - [Today’s NYT Connections Hints and Answers for Monday, Nov. 23, #1261](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-november-23-1261/)<!-- TECH:END -->
+ - [South Korean PE firm MBK Partners agrees to take Japan&#39;s Wacom private, in a deal valuing the digital pen tech company at ~$860M, with Samsung participating &lpar;Kim Woo-young/CHOSUNBIZ&rpar;](https://www.techmeme.com/261122/p20#a261122p20)
+ - [Alexandr Wang says the Riemann Hypothesis proof shows AI will surpass humans in every field, including AI research, and calls for AI safety and alignment &lpar;Alexandr Wang/@alexandr_wang&rpar;](https://www.techmeme.com/261122/p19#a261122p19)
+ - [YouTube is cooking up 7 new app icons, and the retro designs are a treat](https://www.androidauthority.com/youtube-new-app-icons-3737984/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
