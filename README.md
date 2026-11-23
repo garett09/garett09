@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Nordic Aryan Girl from 1370 BC](http://9gag.com/gag/ae4jxXq)
- - 🚯 [Asian woman&#39;s age](http://9gag.com/gag/aEMvD2O)
- - 🚯 [Dad, pick me up im scared](http://9gag.com/gag/ap1EPd5)<!-- MEMES:END -->
+ - 🚖 [His crime ? Being pal](http://9gag.com/gag/a5Ve2Br)
+ - 🚯 [Lest we forget](http://9gag.com/gag/aO2K9dv)
+ - 🚯 [Asian woman&#39;s age](http://9gag.com/gag/aEMvD2O)<!-- MEMES:END -->
 
 --- 
 
