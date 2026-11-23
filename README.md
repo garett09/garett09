@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [South Korean PE firm MBK Partners agrees to take Japan&#39;s Wacom private, in a deal valuing the digital pen tech company at ~$860M, with Samsung participating &lpar;Kim Woo-young/CHOSUNBIZ&rpar;](https://www.techmeme.com/261122/p20#a261122p20)
- - [Alexandr Wang says the Riemann Hypothesis proof shows AI will surpass humans in every field, including AI research, and calls for AI safety and alignment &lpar;Alexandr Wang/@alexandr_wang&rpar;](https://www.techmeme.com/261122/p19#a261122p19)
- - [YouTube is cooking up 7 new app icons, and the retro designs are a treat](https://www.androidauthority.com/youtube-new-app-icons-3737984/)<!-- TECH:END -->
+ - [EU urged to challenge Apple&#39;s grip on iPhone browsers](https://appleinsider.com/articles/26/11/23/eu-urges-to-challenge-apples-grip-on-iphone-browsers?utm_source=rss)
+ - [Nvidia&#39;s board says it is starting a search to fill a new position, Chief Compliance Officer, reporting to the Nominating and Corporate Governance Committee &lpar;Anhata Rooprai/Reuters&rpar;](https://www.techmeme.com/261123/p28#a261123p28)
+ - [White House brags that Trump was ‘totally involved’ in getting Jensen reinstated](https://www.theverge.com/policy/1040096/trump-nvidia-jensen-huang-reinstated)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
