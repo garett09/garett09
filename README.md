@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [His crime ? Being pal](http://9gag.com/gag/a5Ve2Br)
- - 🚯 [Lest we forget](http://9gag.com/gag/aO2K9dv)
- - 🚯 [Asian woman&#39;s age](http://9gag.com/gag/aEMvD2O)<!-- MEMES:END -->
+ - 🚖 [Has anyone found this one in gta yet](http://9gag.com/gag/aBZRPqP)
+ - 🚯 [`just because she has a baby\u2026\u201d](http://9gag.com/gag/anOqDn0)
+ - 🚯 [Valid crashout](http://9gag.com/gag/aj7YKg1)<!-- MEMES:END -->
 
 --- 
 
