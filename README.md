@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Dangerous melons.](http://9gag.com/gag/a6Dmjdq)
+ - 🚖 [Almost every employee came out to meet Jensen Huang when he arrived back at HQ after reinstatement as CEO](http://9gag.com/gag/aD7AOmw)
  - 🚯 [Just started my 12-hour shift at the hand-washing and tube-slapping station at the bullshit factory](http://9gag.com/gag/aYGNAwv)
- - 🚯 [Oh No , This Is Bad ... Where Is This Please ?](http://9gag.com/gag/avWpdpX)<!-- MEMES:END -->
+ - 🚯 [POLL: Which continent has the most sophisticated and historically rich cultural heritage??](http://9gag.com/gag/a2MzOPp)<!-- MEMES:END -->
 
 --- 
 
