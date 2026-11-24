@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [EU urged to challenge Apple&#39;s grip on iPhone browsers](https://appleinsider.com/articles/26/11/23/eu-urges-to-challenge-apples-grip-on-iphone-browsers?utm_source=rss)
- - [Nvidia&#39;s board says it is starting a search to fill a new position, Chief Compliance Officer, reporting to the Nominating and Corporate Governance Committee &lpar;Anhata Rooprai/Reuters&rpar;](https://www.techmeme.com/261123/p28#a261123p28)
- - [White House brags that Trump was ‘totally involved’ in getting Jensen reinstated](https://www.theverge.com/policy/1040096/trump-nvidia-jensen-huang-reinstated)<!-- TECH:END -->
+ - [Sources: Jensen Huang disclosed additional affairs beyond the two already reported during his Sunday meeting with Nvidia&#39;s board, but was remorseful about them &lpar;Wall Street Journal&rpar;](https://www.techmeme.com/261123/p51#a261123p51)
+ - [Uber Riders Can Now Request to Have Their Trips Recorded](https://www.cnet.com/roadshow/rideshare/uber-video-recorded-rides-pilot-program-driver-safety/)
+ - [Filing: ex-OpenAI engineer Abdulrahman Alfozan recorded a meeting with foreign government reps and photographed a confidential term sheet with another company &lpar;Emmy Martin/New York Times&rpar;](https://www.techmeme.com/261123/p50#a261123p50)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
