@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Has anyone found this one in gta yet](http://9gag.com/gag/aBZRPqP)
- - 🚯 [`just because she has a baby\u2026\u201d](http://9gag.com/gag/anOqDn0)
- - 🚯 [Valid crashout](http://9gag.com/gag/aj7YKg1)<!-- MEMES:END -->
+ - 🚖 [Dangerous melons.](http://9gag.com/gag/a6Dmjdq)
+ - 🚯 [Just started my 12-hour shift at the hand-washing and tube-slapping station at the bullshit factory](http://9gag.com/gag/aYGNAwv)
+ - 🚯 [Oh No , This Is Bad ... Where Is This Please ?](http://9gag.com/gag/avWpdpX)<!-- MEMES:END -->
 
 --- 
 
