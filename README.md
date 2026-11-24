@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Jensen Huang disclosed additional affairs beyond the two already reported during his Sunday meeting with Nvidia&#39;s board, but was remorseful about them &lpar;Wall Street Journal&rpar;](https://www.techmeme.com/261123/p51#a261123p51)
- - [Uber Riders Can Now Request to Have Their Trips Recorded](https://www.cnet.com/roadshow/rideshare/uber-video-recorded-rides-pilot-program-driver-safety/)
- - [Filing: ex-OpenAI engineer Abdulrahman Alfozan recorded a meeting with foreign government reps and photographed a confidential term sheet with another company &lpar;Emmy Martin/New York Times&rpar;](https://www.techmeme.com/261123/p50#a261123p50)<!-- TECH:END -->
+ - [US Commerce Department adds Megaspeed to trade blacklist as Huang retakes control of Nvidia](https://www.theverge.com/policy/1041270/nvidia-megaspeed-commerce-dept-entity-list)
+ - [Internal memos: Microsoft declared a &quot;Code Red&quot; drive to overhaul how it prevents and responds to major service failures after the 24-hour Microsoft 365 outage &lpar;Jaspreet Singh/Reuters&rpar;](https://www.techmeme.com/261124/p24#a261124p24)
+ - [Motorola Razr 2027 leak suggests a January launch is in the cards](https://www.androidauthority.com/motorola-razr-2027-possible-launch-date-3738927/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
