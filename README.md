@@ -147,8 +147,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Almost every employee came out to meet Jensen Huang when he arrived back at HQ after reinstatement as CEO](http://9gag.com/gag/aD7AOmw)
- - 🚯 [Just started my 12-hour shift at the hand-washing and tube-slapping station at the bullshit factory](http://9gag.com/gag/aYGNAwv)
+ - 🚖 [Video from Algerian Football League... Notice Anything? &lpar;PS: guess what the official religion of algeria is&rpar;](http://9gag.com/gag/aNLrj4v)
+ - 🚯 [She knows how to handle a wiener](http://9gag.com/gag/aK1wKW6)
  - 🚯 [POLL: Which continent has the most sophisticated and historically rich cultural heritage??](http://9gag.com/gag/a2MzOPp)<!-- MEMES:END -->
 
 --- 
