@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The US Treasury&#39;s FinCEN says it&#39;s investigating a cybersecurity incident that &quot;resulted in unauthorized access to a limited subset of its systems&quot; &lpar;Lauren Feiner/The Verge&rpar;](https://www.techmeme.com/261124/p48#a261124p48)
- - [Asian tech stocks tumble, led by Japanese chip stocks, after a US tech sell-off; Advantest falls 12%+, Tokyo Electron 7%+, Samsung and SK Hynix 6%+ &lpar;Lee Ying Shan/CNBC&rpar;](https://www.techmeme.com/261124/p47#a261124p47)
- - [US financial crimes bureau discloses ‘cybersecurity incident’](https://www.theverge.com/policy/1041957/fincen-treasury-cybersecurity-incident)<!-- TECH:END -->
+ - [Nothing Ear note teaser shows off its earbuds and unique charging case](https://www.androidauthority.com/nothing-ear-note-earbuds-ai-recorder-teaser-video-3739402/)
+ - [CMF Watch 3 Pro hits a new low at just $55](https://www.androidauthority.com/cmf-watch-3-pro-record-low-deal-3739125/)
+ - [Get a free $45 Costco Shop Card with Black Friday membership deal](https://appleinsider.com/articles/26/11/25/get-a-free-45-costco-shop-card-with-black-friday-membership-deal?utm_source=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
