@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [US Commerce Department adds Megaspeed to trade blacklist as Huang retakes control of Nvidia](https://www.theverge.com/policy/1041270/nvidia-megaspeed-commerce-dept-entity-list)
- - [Internal memos: Microsoft declared a &quot;Code Red&quot; drive to overhaul how it prevents and responds to major service failures after the 24-hour Microsoft 365 outage &lpar;Jaspreet Singh/Reuters&rpar;](https://www.techmeme.com/261124/p24#a261124p24)
- - [Motorola Razr 2027 leak suggests a January launch is in the cards](https://www.androidauthority.com/motorola-razr-2027-possible-launch-date-3738927/)<!-- TECH:END -->
+ - [The US Treasury&#39;s FinCEN says it&#39;s investigating a cybersecurity incident that &quot;resulted in unauthorized access to a limited subset of its systems&quot; &lpar;Lauren Feiner/The Verge&rpar;](https://www.techmeme.com/261124/p48#a261124p48)
+ - [Asian tech stocks tumble, led by Japanese chip stocks, after a US tech sell-off; Advantest falls 12%+, Tokyo Electron 7%+, Samsung and SK Hynix 6%+ &lpar;Lee Ying Shan/CNBC&rpar;](https://www.techmeme.com/261124/p47#a261124p47)
+ - [US financial crimes bureau discloses ‘cybersecurity incident’](https://www.theverge.com/policy/1041957/fincen-treasury-cybersecurity-incident)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
