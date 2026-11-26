@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nothing Ear note teaser shows off its earbuds and unique charging case](https://www.androidauthority.com/nothing-ear-note-earbuds-ai-recorder-teaser-video-3739402/)
- - [CMF Watch 3 Pro hits a new low at just $55](https://www.androidauthority.com/cmf-watch-3-pro-record-low-deal-3739125/)
- - [Get a free $45 Costco Shop Card with Black Friday membership deal](https://appleinsider.com/articles/26/11/25/get-a-free-45-costco-shop-card-with-black-friday-membership-deal?utm_source=rss)<!-- TECH:END -->
+ - [AirFly Drive review: excellent wireless CarPlay for one driver, not two](https://appleinsider.com/articles/26/11/26/airfly-drive-review-excellent-wireless-carplay-for-one-driver-not-two?utm_source=rss)
+ - [Neuralink says it got FDA approval for the LINK Pivotal Study, a US clinical trial to evaluate the safety and effectiveness of its BCI system in ALS patients &lpar;Craig Trudell/Bloomberg&rpar;](https://www.techmeme.com/261125/p43#a261125p43)
+ - [A US court dismisses Amazon&#39;s challenge to a 2025 CPSC order requiring it to recall 400K+ hazardous products sold by third parties via Fulfillment by Amazon &lpar;Emma Roth/The Verge&rpar;](https://www.techmeme.com/261125/p42#a261125p42)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
