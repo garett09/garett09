@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [AirFly Drive review: excellent wireless CarPlay for one driver, not two](https://appleinsider.com/articles/26/11/26/airfly-drive-review-excellent-wireless-carplay-for-one-driver-not-two?utm_source=rss)
- - [Neuralink says it got FDA approval for the LINK Pivotal Study, a US clinical trial to evaluate the safety and effectiveness of its BCI system in ALS patients &lpar;Craig Trudell/Bloomberg&rpar;](https://www.techmeme.com/261125/p43#a261125p43)
- - [A US court dismisses Amazon&#39;s challenge to a 2025 CPSC order requiring it to recall 400K+ hazardous products sold by third parties via Fulfillment by Amazon &lpar;Emma Roth/The Verge&rpar;](https://www.techmeme.com/261125/p42#a261125p42)<!-- TECH:END -->
+ - [Disney Plus, Hulu, and HBO Max are all over 50 percent off for Black Friday](https://www.theverge.com/gadgets/1041762/best-black-friday-streaming-deals-2026)
+ - [GTA VI developers vote against unionization](https://www.theverge.com/games/1043169/rockstar-games-union-vote-iwgb)
+ - [Avicena, which links AI chips with microLEDs instead of lasers, raised a $100M+ Series C led by Intervest, with participation from SK Hynix, Samsung, and AMD &lpar;Cristian Dina/The Next Web&rpar;](https://www.techmeme.com/261126/p20#a261126p20)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
