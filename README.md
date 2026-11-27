@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Disney Plus, Hulu, and HBO Max are all over 50 percent off for Black Friday](https://www.theverge.com/gadgets/1041762/best-black-friday-streaming-deals-2026)
- - [GTA VI developers vote against unionization](https://www.theverge.com/games/1043169/rockstar-games-union-vote-iwgb)
- - [Avicena, which links AI chips with microLEDs instead of lasers, raised a $100M+ Series C led by Intervest, with participation from SK Hynix, Samsung, and AMD &lpar;Cristian Dina/The Next Web&rpar;](https://www.techmeme.com/261126/p20#a261126p20)<!-- TECH:END -->
+ - [The Best Black Friday Deals Are Now Live: Our Expert Picks for 2026](https://www.wired.com/story/best-black-friday-deals-11-26-2026/)
+ - [Bipartisan efforts in Congress to regulate AI are gaining momentum, but they face an uphill climb due to the slow pace of legislative work and turf battles &lpar;New York Times&rpar;](https://www.techmeme.com/261126/p26#a261126p26)
+ - [A US judge sentences a Florida man to 47 months in prison for using AI to impersonate Kick streamer N3on, defrauding a memecoin&#39;s organizers out of ~$260K &lpar;Nathan Grayson/Aftermath&rpar;](https://www.techmeme.com/261126/p25#a261126p25)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
