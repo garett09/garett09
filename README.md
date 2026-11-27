@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Best Black Friday Deals Are Now Live: Our Expert Picks for 2026](https://www.wired.com/story/best-black-friday-deals-11-26-2026/)
- - [Bipartisan efforts in Congress to regulate AI are gaining momentum, but they face an uphill climb due to the slow pace of legislative work and turf battles &lpar;New York Times&rpar;](https://www.techmeme.com/261126/p26#a261126p26)
- - [A US judge sentences a Florida man to 47 months in prison for using AI to impersonate Kick streamer N3on, defrauding a memecoin&#39;s organizers out of ~$260K &lpar;Nathan Grayson/Aftermath&rpar;](https://www.techmeme.com/261126/p25#a261126p25)<!-- TECH:END -->
+ - [TCL NXTPAPER 70 Pro drops to a record low of $259.99](https://www.androidauthority.com/tcl-nxtpaper-70-pro-black-friday-deal-3740934/)
+ - [Walking Pad Deals to Shop This Black Friday &lpar;2026&rpar;](https://www.wired.com/story/best-black-friday-walking-pad-treadmill-deals-11-27-26/)
+ - [Belkin’s 45W USB-C charger two-pack hits a record low of $24.99](https://www.androidauthority.com/belkin-45w-charger-2-pack-deal-3740569/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
