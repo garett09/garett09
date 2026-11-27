@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Priorities straight](http://9gag.com/gag/aj7Yy0p)
- - 🚯 [Oof that&#39;s a painful way to go](http://9gag.com/gag/aXL0GW9)
- - 🚯 [Men are simple](http://9gag.com/gag/aBZRNxD)<!-- MEMES:END -->
+ - 🚖 [Title](http://9gag.com/gag/ap1EjWW)
+ - 🚯 [This girl was interviewed outside of a concert back in 1996, wonder where she&#39;s at now](http://9gag.com/gag/aRLwNd2)
+ - 🚯 [An interesting experiment: Take this image, upload it to ChatGPT, Gemini or Meta AI &lpar;the AI you use most often&rpar; and give it this simple instruction: \u201cFill this room with what you know about me.\u201d I\u2019ll show you in the comments what it came up with in my case...](http://9gag.com/gag/aEMvEKO)<!-- MEMES:END -->
 
 --- 
 
