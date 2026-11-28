@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Title](http://9gag.com/gag/ap1EjWW)
- - 🚯 [This girl was interviewed outside of a concert back in 1996, wonder where she&#39;s at now](http://9gag.com/gag/aRLwNd2)
- - 🚯 [An interesting experiment: Take this image, upload it to ChatGPT, Gemini or Meta AI &lpar;the AI you use most often&rpar; and give it this simple instruction: \u201cFill this room with what you know about me.\u201d I\u2019ll show you in the comments what it came up with in my case...](http://9gag.com/gag/aEMvEKO)<!-- MEMES:END -->
+ - 🚖 [Dont put your D in crazy.](http://9gag.com/gag/aLLRVy6)
+ - 🚯 [Saved it and never used it. Thought you may also want to save it and never use it as well.](http://9gag.com/gag/ae4jyvq)
+ - 🚯 [This girl was interviewed outside of a concert back in 1996, wonder where she&#39;s at now](http://9gag.com/gag/aRLwNd2)<!-- MEMES:END -->
 
 --- 
 
