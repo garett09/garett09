@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [TCL NXTPAPER 70 Pro drops to a record low of $259.99](https://www.androidauthority.com/tcl-nxtpaper-70-pro-black-friday-deal-3740934/)
- - [Walking Pad Deals to Shop This Black Friday &lpar;2026&rpar;](https://www.wired.com/story/best-black-friday-walking-pad-treadmill-deals-11-27-26/)
- - [Belkin’s 45W USB-C charger two-pack hits a record low of $24.99](https://www.androidauthority.com/belkin-45w-charger-2-pack-deal-3740569/)<!-- TECH:END -->
+ - [The absolute best Black Friday deals we’ve found &lpar;so far&rpar;](https://www.theverge.com/gadgets/1039190/best-black-friday-2026-deals-tech-gadgets-gift-ideas)
+ - [Sony’s 1000XM4C headphones are a Black Friday bargain at $198](https://www.theverge.com/gadgets/1043976/sony-wh1000xm4c-noise-canceling-headphones-black-friday-2026-deal-sale)
+ - [2026’s Best Black Friday Deals: We’ve Been Tracking Since 4 AM](https://www.wired.com/story/best-black-friday-deals-11-27-2026/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
