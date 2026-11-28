@@ -148,8 +148,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 🚖 [Dont put your D in crazy.](http://9gag.com/gag/aLLRVy6)
- - 🚯 [Saved it and never used it. Thought you may also want to save it and never use it as well.](http://9gag.com/gag/ae4jyvq)
- - 🚯 [This girl was interviewed outside of a concert back in 1996, wonder where she&#39;s at now](http://9gag.com/gag/aRLwNd2)<!-- MEMES:END -->
+ - 🚯 [The Audacity of This B*tch is unparalleled! Seriously hoe?](http://9gag.com/gag/a6DmeM2)
+ - 🚯 [Still asleep after the sleepover](http://9gag.com/gag/aAQRLx2)<!-- MEMES:END -->
 
 --- 
 
