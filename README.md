@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The absolute best Black Friday deals we’ve found &lpar;so far&rpar;](https://www.theverge.com/gadgets/1039190/best-black-friday-2026-deals-tech-gadgets-gift-ideas)
- - [Sony’s 1000XM4C headphones are a Black Friday bargain at $198](https://www.theverge.com/gadgets/1043976/sony-wh1000xm4c-noise-canceling-headphones-black-friday-2026-deal-sale)
- - [2026’s Best Black Friday Deals: We’ve Been Tracking Since 4 AM](https://www.wired.com/story/best-black-friday-deals-11-27-2026/)<!-- TECH:END -->
+ - [Q&amp;A with Q.ANT CEO Michael Förtsch on making AI photonic processors which could be built with 90nm nodes, their memory efficiency, adoption challenges, and more &lpar;Joel Khalili/Wired&rpar;](https://www.techmeme.com/261128/p6#a261128p6)
+ - [Amazon&#39;s $149 AirPods Pro 3 deal has been extended to Cyber Monday](https://appleinsider.com/articles/26/11/28/amazons-149-airpods-pro-3-deal-has-been-extended-to-cyber-monday?utm_source=rss)
+ - [17 Best Buy Black Friday Deals on Hot Tech &lpar;2026&rpar;: Up to 65% Off](https://www.wired.com/story/black-friday-best-buy-deals-11-28-2026/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
